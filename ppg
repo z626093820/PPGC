@@ -1,0 +1,188 @@
+#!/usr/bin/env python
+import argparse
+import subprocess
+import pandas as pd
+def apgblast(infile, outfile):
+    # 调用 makeblastdb
+    makeblastdb_cmd = ['makeblastdb', '-in', infile, '-dbtype', 'prot', '-out', outfile]
+    subprocess.run(makeblastdb_cmd, check=True)
+
+    # 调用 blastp
+    blastp_cmd = [
+        'blastp', '-query', infile, '-db', outfile,
+        '-out', f'{outfile}.blast', '-outfmt', '7',
+        '-evalue', '1e-5', '-num_alignments', '50',
+        '-num_threads', '2'
+    ]
+    subprocess.run(blastp_cmd, check=True)
+
+def apgcliprocess(inblast,inggff,inlen,inname):
+
+    config_text = f'[collinearity]\nblast = {inblast}\ngff1 =  {inggff}\ngff2 =  {inggff}\nlens1 = {inlen}\nlens2 = {inlen}\nblast_reverse = false\nmultiple  = 1\nprocess = 30\nevalue = 1e-5\nscore = 100\ngrading = 50,40,25\nmg = 25,25\npvalue = 0.2\nrepeat_number = 10\npositon = order\nsavefile = {inname}.collinearity'
+    
+    with open("genome.config", "w",newline='\n') as f:
+        f.write(config_text)
+    subprocess.run(['wgdi', '-icl', 'genome.config'])
+
+def apgblastprocess(data_file, pref):
+    with open(data_file, 'r') as file:
+        data = file.readlines()
+    
+    blocks = []
+    current_block = []
+    
+    for line in data:
+        if line.startswith("# BLASTP"):
+            if current_block:
+                blocks.append(current_block)
+                current_block = []
+        elif line.strip():
+            current_block.append(line.strip())
+    
+    if current_block:
+        blocks.append(current_block)
+        
+    block_data = []
+    for block_index, block in enumerate(blocks, 1):
+        score = float(block[4].split("\t")[11])
+        alleng = float(block[4].split("\t")[3])
+        if len(block) < 7:
+            for line in block:
+                line_data = line.split('\t')
+                if len(line_data) >= 12:
+                    block_data.append(f"{line}\tBlock{block_index}")
+        else:        
+            for line in block:
+                line_data = line.split('\t')
+                if len(line_data) >= 12 and float(line_data[11]) / score >= 0.60 and float(line_data[2]) >= 90 and float(line_data[3]) / alleng >= 0.7:
+                    block_data.append(f"{line}\tBlock{block_index}")
+
+    with open((pref + '.homo'), 'w') as out_file:
+        for line in block_data:
+            out_file.write(line + "\n")   
+
+def apglengffprocess(dfp,inblast,pref):
+    df=pd.read_table(dfp,header=None,comment='#', dtype={0: str})
+    df.columns=['c'+str(i) for i in range(len(df.columns))]
+    chr=df['c0'].unique().tolist()
+    out_file=pref+'_input.len'
+    with open(out_file,'w') as f:
+     for i in chr:
+        df.query('c0==@i')
+        df2=df.query('c0==@i')
+        genenum=len(df2.query('c2=="gene"'))
+        chrend=max(df2.query('c2=="gene"')['c4'])
+        f.write(f"{i}\t{chrend}\t{genenum}\n")
+#整理GFF文件
+    df2=df.query('c2 =="gene"')
+    df3=df2[['c0','c3','c4','c6','c8']].copy()
+    df3['c8']=df3['c8'].replace('ID=','',regex=True)
+    df3.insert(loc=len(df3.columns)-1, column='c7', value=[i for i in range(1,len(df3)+1)])
+    df3.insert(loc=1,column='c2',value=df3['c8'].copy())
+    df3.to_csv(pref+"_input.gff",sep='\t',header=None,index=False)
+#整理blast文件
+    dfblast=pd.read_table(inblast,comment='#',header=None)
+    dfblast.to_csv(pref+'_input.blast',sep='\t',header=None,index=False)
+
+def apghomo(cilinfile1,homoinfile2,outfile):
+    cil=pd.read_table(cilinfile1,comment='#',header=None,sep=' ')
+    print('collinearity读取完成')
+    cil.columns=['c'+str(i) for i in range(len(cil.columns))]
+    cil2=cil[['c0','c2']].copy()
+    cil3=cil2.drop_duplicates(keep='first')
+    df2=pd.read_table(homoinfile2)
+    print('homo读取完成')
+    df2.columns=['c'+str(i) for i in range(len(df2.columns))]
+    blocknum=df2['c12'].unique()
+    df_c=pd.DataFrame()
+    print('第二步')
+    for i in blocknum:
+        df3=df2.query('c12==@i').copy()
+        queryid=df3['c0'].unique()[0]
+        cil4=cil3.query('c0==@queryid')
+        queryid2=df3['c1']
+        cilid=cil4['c2']
+        common_elements_union=pd.Series(list(set(queryid2).intersection(set(cilid))),dtype='object')
+        for j in queryid2:
+            if j in common_elements_union.values or j==queryid:
+                indexnum = df3.loc[df3['c1'] == j].index
+                df3.loc[indexnum, 'New_Column'] = 1  # 根据索引赋值为1
+            else:
+                indexnum = df3.loc[df3['c1'] == j].index
+                df3.loc[indexnum, 'New_Column'] = 0  # 根据索引赋值为1
+        print(i)
+        df_c=pd.concat([df_c,df3])
+    # df_c.to_csv(homoinfile2+'.txt',sep='\t',index=False)
+    # df=pd.read_table(r"D:\桌面\甘薯嫁接\22023表达量数据-xu18\多倍化\多倍化影响\第二种思路-xu18-last-test.txt")
+    df21=df_c.query('New_Column==1')
+    df31=df21[['c1','c12','New_Column']]
+    listnum=df31['c12'].unique().tolist()
+    dict1={}
+    countn=1
+    def findrepeat(df,my_list):
+        matching_rows = df[df['c1'].isin(my_list)]['c12'].unique()
+        matching_first_column_values = df[df['c12'].isin(matching_rows)]['c1'].unique()
+        return matching_first_column_values 
+    while len(listnum)>0:
+        i=listnum[0]
+        print(i)
+        df41=df31.query('c12==@i')
+        list1=df41['c1'].tolist()
+        list2=findrepeat(df31,list1)
+        df5 = df31[~df31['c1'].isin(list2)]
+        while len(list2) > 0:
+            list3=list2
+            list2=findrepeat(df5,list3)
+        df5 = df31[~df31['c1'].isin(list3)]
+        listnum=df5['c12'].unique().tolist()
+        id='apg'+str(countn)
+        dict1[id]=list3
+        countn+=1
+        df31=df5
+    pd.DataFrame.from_dict(dict1, orient='index').to_csv(outfile+'_apg.txt',sep='\t',header=False)
+
+if __name__ == "__main__":
+    parser = argparse.ArgumentParser(description='Perform analysis.')
+    subparsers = parser.add_subparsers(dest='command', help='sub-command help')
+
+    # parser for blast command
+    blast_parser = subparsers.add_parser('apgblast', help='Run apgblast analysis')
+    blast_parser.add_argument('-i', '--infile', required=True, help='Input FASTA file')
+    blast_parser.add_argument('-o', '--outfile', required=True, help='Output file prefix')
+
+    # parser for homoblast command
+    homoblast_parser = subparsers.add_parser('apgblastprocess', help='Run apgblastprocess analysis')
+    homoblast_parser.add_argument('-i', '--infile', required=True, help='Input file')
+    homoblast_parser.add_argument('-o', '--outfile', required=True, help='Output file prefix')
+    
+    # parser for extract_lengff command
+    extract_lengff_parser = subparsers.add_parser('apglengffprocess', help='Run apglengffprocess analysis')
+    extract_lengff_parser.add_argument('-i', '--infile', required=True, help='Input GFF file')
+    extract_lengff_parser.add_argument('-b', '--blastfile', required=True, help='Input blast file')
+    extract_lengff_parser.add_argument('-o', '--outfile', required=True, help='Output file prefix')
+    
+    # parser for cilfileprocess command
+    cilfileprocess_parser = subparsers.add_parser('apgcliprocess', help='Run apgcliprocess analysis')
+    cilfileprocess_parser.add_argument('-b', '--inblast', required=True, help='Input blast file')
+    cilfileprocess_parser.add_argument('-g', '--inggff', required=True, help='Input gff file')
+    cilfileprocess_parser.add_argument('-l', '--inlen', required=True, help='Input len file')
+    cilfileprocess_parser.add_argument('-o', '--inname', required=True, help='Output file prefix')
+    
+    # parser for cilhomo command
+    cilhomo_parser = subparsers.add_parser('apghomo', help='Run apghomo analysis')
+    cilhomo_parser.add_argument('-c', '--cilinfile', required=True, help='Input collinearity file')
+    cilhomo_parser.add_argument('-i', '--homoinfile', required=True, help='Input homology file')
+    cilhomo_parser.add_argument('-o', '--outfile', required=True, help='Output file prefix')
+    
+    args = parser.parse_args()
+
+    if args.command == 'apgblast':
+        apgblast(args.infile, args.outfile)
+    elif args.command == 'apgblastprocess':
+        apgblastprocess(args.infile, args.outfile)
+    elif args.command == 'apglengffprocess':
+        apglengffprocess(args.infile,args.blastfile ,args.outfile)
+    elif args.command == 'apgcliprocess':
+        apgcliprocess(args.inblast, args.inggff, args.inlen, args.inname)
+    elif args.command == 'apghomo':
+        apghomo(args.cilinfile, args.homoinfile, args.outfile)

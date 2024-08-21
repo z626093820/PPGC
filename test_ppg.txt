@@ -1,0 +1,3166 @@
+apg1	Iba_chr01aCG0420			
+apg2	Iba_chr01aCG14420	Iba_chr01bCG14530		
+apg3	Iba_chr01aCG12240	Iba_chr01bCG12330		
+apg4	Iba_chr01aCG15750	Iba_chr01bCG16360		
+apg5	Iba_chr01aCG17930	Iba_chr01bCG17080		
+apg6	Iba_chr01aCG7050			
+apg7	Iba_chr01aCG16600			
+apg8	Iba_chr01aCG8380			
+apg9	Iba_chr01aCG9230			
+apg10	Iba_chr01aCG13570	Iba_chr01bCG13690		
+apg11	Iba_chr01aCG0410			
+apg12	Iba_chr01aCG3920	Iba_chr01bCG4180		
+apg13	Iba_chr01aCG10060	Iba_chr01bCG10320		
+apg14	Iba_chr01aCG11390	Iba_chr01bCG11530		
+apg15	Iba_chr01aCG0430			
+apg16	Iba_chr01bCG4210	Iba_chr01aCG3940	Iba_chr01bCG4830	
+apg17	Iba_chr01aCG14410			
+apg18	Iba_chr01aCG1760			
+apg19	Iba_chr01aCG12230			
+apg20	Iba_chr01aCG13560	Iba_chr01bCG13680		
+apg21	Iba_chr01aCG15740	Iba_chr01bCG16340		
+apg22	Iba_chr01aCG9240			
+apg23	Iba_chr01aCG7060	Iba_chr01bCG7340		
+apg24	Iba_chr01aCG17920			
+apg25	Iba_chr01aCG8390			
+apg26	Iba_chr01aCG11380			
+apg27	Iba_chr01aCG14890			
+apg28	Iba_chr01aCG2600	Iba_chr01bCG3060		
+apg29	Iba_chr01aCG10050			
+apg30	Iba_chr01aCG3930	Iba_chr01bCG4870	Iba_chr01bCG6140	
+apg31	Iba_chr01aCG2620			
+apg32	Iba_chr01aCG3950			
+apg33	Iba_chr01aCG1770	Iba_chr01bCG0320		
+apg34	Iba_chr01aCG13110			
+apg35	Iba_chr01aCG0440			
+apg36	Iba_chr01aCG14440	Iba_chr01bCG14560		
+apg37	Iba_chr01aCG17950	Iba_chr01bCG17100		
+apg38	Iba_chr01aCG21180			
+apg39	Iba_chr01aCG16620	Iba_chr01aCG16630		
+apg40	Iba_chr01aCG18800			
+apg41	Iba_chr01aCG9250	Iba_chr01bCG9490		
+apg42	Iba_chr01aCG7070	Iba_chr01bCG7360		
+apg43	Iba_chr01aCG15770	Iba_chr01bCG16380		
+apg44	Iba_chr01aCG12260			
+apg45	Iba_chr01aCG10080			
+apg46	Iba_chr01aCG13590	Iba_chr01bCG13710		
+apg47	Iba_chr01aCG2610			
+apg48	Iba_chr01aCG1780	Iba_chr01bCG0330		
+apg49	Iba_chr01aCG1300	Iba_chr01bCG1400		
+apg50	Iba_chr01aCG2630	Iba_chr01bCG3100		
+apg51	Iba_chr01aCG13100			
+apg52	Iba_chr01aCG0450	Iba_chr01bCG0740		
+apg53	Iba_chr01aCG3960	Iba_chr01bCG4230		
+apg54	Iba_chr01aCG14430	Iba_chr01bCG14540		
+apg55	Iba_chr01aCG15760	Iba_chr01bCG16370		
+apg56	Iba_chr01aCG21190			
+apg57	Iba_chr01aCG16610			
+apg58	Iba_chr01aCG17940			
+apg59	Iba_chr01aCG9260	Iba_chr01bCG9500		
+apg60	Iba_chr01aCG7080			
+apg61	Iba_chr01aCG10070	Iba_chr01bCG10330		
+apg62	Iba_chr01aCG12250	Iba_chr01bCG12340		
+apg63	Iba_chr01aCG13580			
+apg64	Iba_chr01aCG4800	Iba_chr01bCG6050	Iba_chr01bCG6060	
+apg65	Iba_chr01bCG0340	Iba_chr01aCG1790		
+apg66	Iba_chr01aCG0460	Iba_chr01bCG0730		
+apg67	Iba_chr01aCG1310	Iba_chr01bCG1390		
+apg68	Iba_chr01aCG4820	Iba_chr01bCG6040		
+apg69	Iba_chr01aCG2640	Iba_chr01aCG2660		
+apg70	Iba_chr01aCG3970			
+apg71	Iba_chr01aCG16640			
+apg72	Iba_chr01aCG15310			
+apg73	Iba_chr01bCG19860	Iba_chr01aCG18820		
+apg74	Iba_chr01aCG7090	Iba_chr01bCG7370		
+apg75	Iba_chr01bCG9510	Iba_chr01aCG9270		
+apg76	Iba_chr01bCG16420	Iba_chr01aCG15790		
+apg77	Iba_chr01aCG17970	Iba_chr01bCG17130		
+apg78	Iba_chr01aCG13130	Iba_chr01bCG12970		
+apg79	Iba_chr01aCG14460			
+apg80	Iba_chr01aCG12280	Iba_chr01bCG12360		
+apg81	Iba_chr01aCG4810			
+apg82	Iba_chr01aCG0470			
+apg83	Iba_chr01aCG3980			
+apg84	Iba_chr01aCG3500			
+apg85	Iba_chr01aCG4830			
+apg86	Iba_chr01aCG1320			
+apg87	Iba_chr01aCG2650			
+apg88	Iba_chr01aCG13120	Iba_chr01bCG12960		
+apg89	Iba_chr01aCG17960			
+apg90	Iba_chr01aCG15300			
+apg91	Iba_chr01aCG18810	Iba_chr01bCG19850		
+apg92	Iba_chr01aCG9280	Iba_chr01bCG9530		
+apg93	Iba_chr01aCG15780	Iba_chr01bCG16410		
+apg94	Iba_chr01aCG14450	Iba_chr01bCG14570		
+apg95	Iba_chr01aCG12270			
+apg96	Iba_chr01aCG10090	Iba_chr01bCG10340		
+apg97	Iba_chr01aCG3990			
+apg98	Iba_chr01aCG0480	Iba_chr01bCG0720		
+apg99	Iba_chr01aCG3510			
+apg100	Iba_chr01aCG1330	Iba_chr01bCG1370		
+apg101	Iba_chr01aCG4840	Iba_chr01bCG6020		
+apg102	Iba_chr01aCG14000	Iba_chr01bCG14130		
+apg103	Iba_chr01aCG17510			
+apg104	Iba_chr01aCG18840	Iba_chr01bCG19880		
+apg105	Iba_chr01aCG9290	Iba_chr01bCG9550		
+apg106	Iba_chr01aCG17990	Iba_chr01bCG17150		
+apg107	Iba_chr01aCG16660			
+apg108	Iba_chr01aCG15330			
+apg109	Iba_chr01aCG13150	Iba_chr01bCG13010		
+apg110	Iba_chr01aCG14480	Iba_chr01bCG14600		
+apg111	Iba_chr01aCG1340			
+apg112	Iba_chr01aCG2670			
+apg113	Iba_chr01aCG0490			
+apg114	Iba_chr01aCG5700			
+apg115	Iba_chr01aCG0010	Iba_chr01bCG1130		
+apg116	Iba_chr01aCG3520	Iba_chr01bCG4520		
+apg117	Iba_chr01aCG4850	Iba_chr01bCG6010		
+apg118	Iba_chr01aCG15320	Iba_chr01bCG15840		
+apg119	Iba_chr01bCG19870	Iba_chr01aCG18830		
+apg120	Iba_chr01aCG17500			
+apg121	Iba_chr01aCG16650			
+apg122	Iba_chr01aCG17980	Iba_chr01bCG17140		
+apg123	Iba_chr01aCG13140			
+apg124	Iba_chr01aCG14470			
+apg125	Iba_chr01bCG12380	Iba_chr01aCG12290		
+apg126	Iba_chr01aCG1350	Iba_chr01bCG1350		
+apg127	Iba_chr01aCG4860			
+apg128	Iba_chr01aCG0020			
+apg129	Iba_chr01aCG14820			
+apg130	Iba_chr01aCG2680			
+apg131	Iba_chr01aCG5710			
+apg132	Iba_chr01aCG12640			
+apg133	Iba_chr01aCG11310			
+apg134	Iba_chr01aCG13970			
+apg135	Iba_chr01aCG2200			
+apg136	Iba_chr01aCG3530			
+apg137	Iba_chr01aCG10460			
+apg138	Iba_chr01aCG11790			
+apg139	Iba_chr01bCG19550	Iba_chr01aCG20270		
+apg140	Iba_chr01aCG21120			
+apg141	Iba_chr01bCG18500	Iba_chr01aCG19270		
+apg142	Iba_chr01aCG17090			
+apg143	Iba_chr01aCG0030			
+apg144	Iba_chr01aCG3540			
+apg145	Iba_chr01aCG11300			
+apg146	Iba_chr01aCG14810			
+apg147	Iba_chr01aCG4870			
+apg148	Iba_chr01aCG5720			
+apg149	Iba_chr01aCG7900	Iba_chr01aCG5800		
+apg150	Iba_chr01aCG1360	Iba_chr01bCG1340		
+apg151	Iba_chr01aCG2690			
+apg152	Iba_chr01aCG12630			
+apg153	Iba_chr01aCG13960	Iba_chr01bCG14080		
+apg154	Iba_chr01aCG11780			
+apg155	Iba_chr01aCG2210	Iba_chr01bCG2760		
+apg156	Iba_chr01aCG10450			
+apg157	Iba_chr01bCG19560	Iba_chr01aCG20280		
+apg158	Iba_chr01aCG21130			
+apg159	Iba_chr01aCG17080			
+apg160	Iba_chr01aCG19260	Iba_chr01bCG18490		
+apg161	Iba_chr01aCG5730			
+apg162	Iba_chr01aCG2220	Iba_chr01bCG2770		
+apg163	Iba_chr01aCG3550			
+apg164	Iba_chr01aCG10000	Iba_chr01bCG10270		
+apg165	Iba_chr01aCG1370			
+apg166	Iba_chr01aCG4880	Iba_chr01bCG5990		
+apg167	Iba_chr01aCG13510	Iba_chr01bCG13620		
+apg168	Iba_chr01aCG0040			
+apg169	Iba_chr01aCG7910			
+apg170	Iba_chr01aCG14840	Iba_chr01aCG14850		
+apg171	Iba_chr01aCG12660			
+apg172	Iba_chr01aCG10480			
+apg173	Iba_chr01aCG11330	Iba_chr01bCG11470		
+apg174	Iba_chr01aCG4400			
+apg175	Iba_chr01bCG14120	Iba_chr01aCG13990		
+apg176	Iba_chr01aCG21100	Iba_chr01aCG21090		
+apg177	Iba_chr01aCG21580			
+apg178	Iba_chr01aCG20250			
+apg179	Iba_chr01aCG19290	Iba_chr01bCG18510		
+apg180	Iba_chr01aCG2230			
+apg181	Iba_chr01aCG7920			
+apg182	Iba_chr01aCG13500	Iba_chr01bCG13610		
+apg183	Iba_chr01aCG0050	Iba_chr01bCG1110		
+apg184	Iba_chr01aCG3560			
+apg185	Iba_chr01aCG11320	Iba_chr01bCG11460		
+apg186	Iba_chr01aCG14830			
+apg187	Iba_chr01aCG4890	Iba_chr01bCG5960		
+apg188	Iba_chr01aCG10470	Iba_chr01bCG10640		
+apg189	Iba_chr01aCG12650			
+apg190	Iba_chr01aCG13980			
+apg191	Iba_chr01aCG4410	Iba_chr01bCG5180		
+apg192	Iba_chr01aCG5740			
+apg193	Iba_chr01aCG1380			
+apg194	Iba_chr01aCG21110			
+apg195	Iba_chr01aCG21590			
+apg196	Iba_chr01aCG20260	Iba_chr01bCG19530		
+apg197	Iba_chr01aCG19280			
+apg198	Iba_chr01aCG4420			
+apg199	Iba_chr01aCG6600			
+apg200	Iba_chr01aCG7930			
+apg201	Iba_chr01aCG12200	Iba_chr01bCG12290		
+apg202	Iba_chr01aCG2240			
+apg203	Iba_chr01aCG3570	Iba_chr01bCG3780		
+apg204	Iba_chr01aCG13530	Iba_chr01bCG13650		
+apg205	Iba_chr01aCG14860			
+apg206	Iba_chr01aCG5750			
+apg207	Iba_chr01aCG12680			
+apg208	Iba_chr01aCG10020	Iba_chr01bCG10290		
+apg209	Iba_chr01aCG11350	Iba_chr01bCG11490		
+apg210	Iba_chr01aCG21160			
+apg211	Iba_chr01aCG1390	Iba_chr01bCG1310		
+apg212	Iba_chr01aCG0060	Iba_chr01bCG1100		
+apg213	Iba_chr01aCG15710	Iba_chr01bCG16310		
+apg214	Iba_chr01aCG3100			
+apg215	Iba_chr01aCG6610	Iba_chr01bCG7050		
+apg216	Iba_chr01aCG4430			
+apg217	Iba_chr01aCG2250			
+apg218	Iba_chr01aCG13520			
+apg219	Iba_chr01aCG11340			
+apg220	Iba_chr01aCG5760	Iba_chr01aCG6390	Iba_chr01aCG6370	Iba_chr01bCG6760
+apg221	Iba_chr01aCG7940			
+apg222	Iba_chr01aCG10010	Iba_chr01bCG10280		
+apg223	Iba_chr01aCG12670			
+apg224	Iba_chr01aCG21170			
+apg225	Iba_chr01aCG0070			
+apg226	Iba_chr01aCG3580			
+apg227	Iba_chr01aCG15700	Iba_chr01bCG16300		
+apg228	Iba_chr01aCG10490	Iba_chr01bCG10660		
+apg229	Iba_chr01aCG8800	Iba_chr01bCG8900		
+apg230	Iba_chr01aCG3110			
+apg231	Iba_chr01aCG4440			
+apg232	Iba_chr01aCG14400			
+apg233	Iba_chr01aCG5770			
+apg234	Iba_chr01aCG12220	Iba_chr01bCG12320		
+apg235	Iba_chr01aCG10040			
+apg236	Iba_chr01aCG13550	Iba_chr01bCG13670		
+apg237	Iba_chr01aCG6620			
+apg238	Iba_chr01aCG7950			
+apg239	Iba_chr01aCG14880			
+apg240	Iba_chr01aCG20290	Iba_chr01bCG19570		
+apg241	Iba_chr01aCG15730			
+apg242	Iba_chr01aCG17910			
+apg243	Iba_chr01aCG2260			
+apg244	Iba_chr01aCG3590			
+apg245	Iba_chr01aCG0080	Iba_chr01bCG1070		
+apg246	Iba_chr01aCG21140			
+apg247	Iba_chr01aCG11370	Iba_chr01bCG11520		
+apg248	Iba_chr01aCG8810			
+apg249	Iba_chr01aCG3120			
+apg250	Iba_chr01aCG4450			
+apg251	Iba_chr01aCG7960			
+apg252	Iba_chr01aCG10030	Iba_chr01bCG10300		
+apg253	Iba_chr01aCG12210	Iba_chr01bCG12300		
+apg254	Iba_chr01aCG13540	Iba_chr01bCG13660		
+apg255	Iba_chr01aCG6630			
+apg256	Iba_chr01aCG11360	Iba_chr01bCG11510		
+apg257	Iba_chr01aCG14870			
+apg258	Iba_chr01aCG5300	Iba_chr01bCG5550		
+apg259	Iba_chr01aCG5780			
+apg260	Iba_chr01aCG2270			
+apg261	Iba_chr01aCG15720	Iba_chr01bCG16320		
+apg262	Iba_chr01aCG0090	Iba_chr01bCG1060		
+apg263	Iba_chr01aCG17900	Iba_chr01bCG17050		
+apg264	Iba_chr01aCG21150			
+apg265	Iba_chr01aCG12690			
+apg266	Iba_chr01aCG8700	Iba_chr01bCG8780		
+apg267	Iba_chr01aCG3010			
+apg268	Iba_chr01aCG4340			
+apg269	Iba_chr01aCG10980	Iba_chr01bCG11190		
+apg270	Iba_chr01aCG7850			
+apg271	Iba_chr01aCG6520			
+apg272	Iba_chr01aCG5670			
+apg273	Iba_chr01aCG2160	Iba_chr01bCG2730		
+apg274	Iba_chr01aCG10500	Iba_chr01bCG10670		
+apg275	Iba_chr01aCG3490			
+apg276	Iba_chr01aCG11830			
+apg277	Iba_chr01aCG16280			
+apg278	Iba_chr01aCG17130			
+apg279	Iba_chr01aCG21640			
+apg280	Iba_chr01aCG18460			
+apg281	Iba_chr01aCG19790	Iba_chr01bCG19050		
+apg282	Iba_chr01aCG20310	Iba_chr01bCG19590		
+apg283	Iba_chr01aCG19310	Iba_chr01bCG18530		
+apg284	Iba_chr01aCG20790			
+apg285	Iba_chr01aCG10970	Iba_chr01bCG11180		
+apg286	Iba_chr01aCG3020	Iba_chr01bCG3190		
+apg287	Iba_chr01aCG6530	Iba_chr01bCG6930		
+apg288	Iba_chr01aCG7860			
+apg289	Iba_chr01aCG5200	Iba_chr01bCG5610		
+apg290	Iba_chr01aCG8710			
+apg291	Iba_chr01aCG5680			
+apg292	Iba_chr01aCG4350			
+apg293	Iba_chr01aCG2170			
+apg294	Iba_chr01aCG11820	Iba_chr01bCG11930		
+apg295	Iba_chr01aCG14090	Iba_chr01bCG14240		
+apg296	Iba_chr01aCG19780	Iba_chr01bCG19040		
+apg297	Iba_chr01aCG16270			
+apg298	Iba_chr01aCG21650			
+apg299	Iba_chr01aCG18450			
+apg300	Iba_chr01aCG20320			
+apg301	Iba_chr01aCG19300	Iba_chr01bCG18520		
+apg302	Iba_chr01aCG17120			
+apg303	Iba_chr01aCG11850	Iba_chr01bCG11960		
+apg304	Iba_chr01aCG10520			
+apg305	Iba_chr01aCG6540			
+apg306	Iba_chr01aCG5210			
+apg307	Iba_chr01aCG8720	Iba_chr01bCG8800		
+apg308	Iba_chr01aCG5690			
+apg309	Iba_chr01aCG7870	Iba_chr01aCG5860		
+apg310	Iba_chr01aCG3030	Iba_chr01aCG3040		
+apg311	Iba_chr01aCG4360			
+apg312	Iba_chr01aCG2180	Iba_chr01bCG2740		
+apg313	Iba_chr01aCG12700			
+apg314	Iba_chr01aCG17150	Iba_chr01aCG17140		
+apg315	Iba_chr01aCG18480			
+apg316	Iba_chr01aCG19330	Iba_chr01bCG18570		
+apg317	Iba_chr01aCG20770			
+apg318	Iba_chr01aCG18000	Iba_chr01bCG17170		
+apg319	Iba_chr01aCG21620			
+apg320	Iba_chr01aCG11840			
+apg321	Iba_chr01aCG10990	Iba_chr01bCG11200		
+apg322	Iba_chr01aCG5220	Iba_chr01bCG5600		
+apg323	Iba_chr01aCG8730	Iba_chr01bCG8810		
+apg324	Iba_chr01aCG7400	Iba_chr01bCG7600		
+apg325	Iba_chr01bCG2750	Iba_chr01aCG2190		
+apg326	Iba_chr01aCG6550			
+apg327	Iba_chr01aCG7880			
+apg328	Iba_chr01aCG10510	Iba_chr01bCG10690		
+apg329	Iba_chr01aCG4370			
+apg330	Iba_chr01aCG18470			
+apg331	Iba_chr01aCG20780			
+apg332	Iba_chr01aCG21630			
+apg333	Iba_chr01bCG18560	Iba_chr01aCG19320		
+apg334	Iba_chr01aCG20300	Iba_chr01bCG19580		
+apg335	Iba_chr01aCG16290			
+apg336	Iba_chr01aCG10540	Iba_chr01bCG10730		
+apg337	Iba_chr01aCG12720			
+apg338	Iba_chr01aCG11870			
+apg339	Iba_chr01aCG7410			
+apg340	Iba_chr01aCG8740			
+apg341	Iba_chr01aCG7890	Iba_chr01aCG5810		
+apg342	Iba_chr01aCG6560			
+apg343	Iba_chr01aCG5230			
+apg344	Iba_chr01aCG3050	Iba_chr01bCG3200		
+apg345	Iba_chr01bCG15500	Iba_chr01aCG14900		
+apg346	Iba_chr01aCG4380			
+apg347	Iba_chr01aCG21200			
+apg348	Iba_chr01aCG18020	Iba_chr01bCG17190		
+apg349	Iba_chr01aCG19350	Iba_chr01bCG18590		
+apg350	Iba_chr01aCG21680			
+apg351	Iba_chr01aCG20350	Iba_chr01bCG19600		
+apg352	Iba_chr01aCG17170			
+apg353	Iba_chr01aCG10530	Iba_chr01bCG10720		
+apg354	Iba_chr01aCG11860			
+apg355	Iba_chr01aCG9600			
+apg356	Iba_chr01aCG7420			
+apg357	Iba_chr01aCG4390			
+apg358	Iba_chr01aCG6570	Iba_chr01bCG6990		
+apg359	Iba_chr01aCG5240	Iba_chr01bCG5590		
+apg360	Iba_chr01aCG8750			
+apg361	Iba_chr01aCG12710			
+apg362	Iba_chr01aCG3060			
+apg363	Iba_chr01aCG19340	Iba_chr01bCG18580		
+apg364	Iba_chr01aCG17160			
+apg365	Iba_chr01aCG21210			
+apg366	Iba_chr01aCG18010			
+apg367	Iba_chr01aCG21690	Iba_chr01aCG21540		
+apg368	Iba_chr01aCG20360	Iba_chr01bCG19610		
+apg369	Iba_chr01aCG18490	Iba_chr01bCG17580		
+apg370	Iba_chr01aCG11410			
+apg371	Iba_chr01aCG14920	Iba_chr01bCG15510		
+apg372	Iba_chr01aCG12740			
+apg373	Iba_chr01aCG6100	Iba_chr01bCG7820	Iba_chr01aCG7650	
+apg374	Iba_chr01aCG11890			
+apg375	Iba_chr01aCG10560	Iba_chr01bCG10750		
+apg376	Iba_chr01aCG9610	Iba_chr01bCG9830		
+apg377	Iba_chr01aCG3070			
+apg378	Iba_chr01aCG6580			
+apg379	Iba_chr01aCG5250	Iba_chr01bCG5580		
+apg380	Iba_chr01aCG7430	Iba_chr01bCG7620		
+apg381	Iba_chr01aCG8760			
+apg382	Iba_chr01aCG21660			
+apg383	Iba_chr01aCG18040	Iba_chr01bCG17210		
+apg384	Iba_chr01aCG20330			
+apg385	Iba_chr01aCG17190			
+apg386	Iba_chr01aCG19370	Iba_chr01bCG18610		
+apg387	Iba_chr01aCG12730			
+apg388	Iba_chr01aCG10550	Iba_chr01bCG10740		
+apg389	Iba_chr01bCG11540	Iba_chr01aCG11400		
+apg390	Iba_chr01aCG11880			
+apg391	Iba_chr01aCG9620			
+apg392	Iba_chr01aCG5260			
+apg393	Iba_chr01aCG8770	Iba_chr01bCG8860		
+apg394	Iba_chr01aCG3080	Iba_chr01bCG3210		
+apg395	Iba_chr01aCG6110			
+apg396	Iba_chr01aCG7440			
+apg397	Iba_chr01aCG6590			
+apg398	Iba_chr01aCG14910			
+apg399	Iba_chr01aCG18030	Iba_chr01bCG17200		
+apg400	Iba_chr01aCG20340			
+apg401	Iba_chr01aCG19360			
+apg402	Iba_chr01aCG21670			
+apg403	Iba_chr01aCG0800			
+apg404	Iba_chr01aCG17180			
+apg405	Iba_chr01aCG8300	Iba_chr01bCG8360		
+apg406	Iba_chr01aCG7450			
+apg407	Iba_chr01aCG16200			
+apg408	Iba_chr01aCG8780			
+apg409	Iba_chr01aCG9630	Iba_chr01bCG9860		
+apg410	Iba_chr01bCG3220	Iba_chr01aCG3090		
+apg411	Iba_chr01aCG6120			
+apg412	Iba_chr01aCG10900			
+apg413	Iba_chr01aCG19710			
+apg414	Iba_chr01aCG5270			
+apg415	Iba_chr01aCG16680			
+apg416	Iba_chr01aCG15350	Iba_chr01bCG15860		
+apg417	Iba_chr01aCG17530			
+apg418	Iba_chr01aCG18860	Iba_chr01bCG19900		
+apg419	Iba_chr01aCG14020			
+apg420	Iba_chr01aCG13170			
+apg421	Iba_chr01aCG0810	Iba_chr01bCG1930		
+apg422	Iba_chr01aCG20710			
+apg423	Iba_chr01aCG9640	Iba_chr01bCG9870		
+apg424	Iba_chr01aCG19700			
+apg425	Iba_chr01aCG6130			
+apg426	Iba_chr01aCG7460			
+apg427	Iba_chr01aCG17520			
+apg428	Iba_chr01aCG8310			
+apg429	Iba_chr01aCG5280			
+apg430	Iba_chr01aCG8790	Iba_chr01bCG8890		
+apg431	Iba_chr01aCG16670			
+apg432	Iba_chr01aCG15340	Iba_chr01bCG15850		
+apg433	Iba_chr01bCG19890	Iba_chr01aCG18850		
+apg434	Iba_chr01aCG14010	Iba_chr01bCG14150		
+apg435	Iba_chr01aCG0820			
+apg436	Iba_chr01aCG13160	Iba_chr01bCG13020		
+apg437	Iba_chr01bCG14620	Iba_chr01aCG14490		
+apg438	Iba_chr01aCG20720			
+apg439	Iba_chr01aCG6140			
+apg440	Iba_chr01aCG18400	Iba_chr01bCG17520		
+apg441	Iba_chr01aCG8320			
+apg442	Iba_chr01aCG9650	Iba_chr01bCG9880		
+apg443	Iba_chr01aCG5290			
+apg444	Iba_chr01aCG10920			
+apg445	Iba_chr01aCG7470			
+apg446	Iba_chr01aCG15370	Iba_chr01bCG15920	Iba_chr01bCG16070	
+apg447	Iba_chr01aCG17550			
+apg448	Iba_chr01aCG18880			
+apg449	Iba_chr01bCG18990	Iba_chr01aCG19730		
+apg450	Iba_chr01aCG16220			
+apg451	Iba_chr01aCG0830			
+apg452	Iba_chr01aCG14040			
+apg453	Iba_chr01aCG13190			
+apg454	Iba_chr01aCG8330	Iba_chr01bCG8370		
+apg455	Iba_chr01aCG9660	Iba_chr01bCG9890		
+apg456	Iba_chr01aCG10910			
+apg457	Iba_chr01aCG19720	Iba_chr01bCG18980		
+apg458	Iba_chr01aCG7000	Iba_chr01bCG7270		
+apg459	Iba_chr01aCG6150			
+apg460	Iba_chr01aCG7480			
+apg461	Iba_chr01aCG16690			
+apg462	Iba_chr01aCG15360	Iba_chr01bCG16050	Iba_chr01bCG15900	
+apg463	Iba_chr01aCG18870			
+apg464	Iba_chr01aCG16210			
+apg465	Iba_chr01aCG17540			
+apg466	Iba_chr01aCG20700			
+apg467	Iba_chr01aCG14030	Iba_chr01bCG14170		
+apg468	Iba_chr01aCG0840	Iba_chr01bCG1900		
+apg469	Iba_chr01aCG13180	Iba_chr01bCG13030		
+apg470	Iba_chr01aCG0860			
+apg471	Iba_chr01aCG7010	Iba_chr01bCG7290		
+apg472	Iba_chr01aCG8340	Iba_chr01bCG8380		
+apg473	Iba_chr01aCG7490			
+apg474	Iba_chr01aCG9670	Iba_chr01bCG9910		
+apg475	Iba_chr01aCG6160			
+apg476	Iba_chr01aCG10940	Iba_chr01bCG11150		
+apg477	Iba_chr01aCG15390	Iba_chr01bCG15940		
+apg478	Iba_chr01aCG17570			
+apg479	Iba_chr01aCG20750			
+apg480	Iba_chr01aCG16240			
+apg481	Iba_chr01aCG18420			
+apg482	Iba_chr01aCG19750	Iba_chr01bCG19010		
+apg483	Iba_chr01aCG1700	Iba_chr01bCG0280		
+apg484	Iba_chr01aCG0850			
+apg485	Iba_chr01aCG14060	Iba_chr01bCG14190		
+apg486	Iba_chr01aCG21600			
+apg487	Iba_chr01aCG0870			
+apg488	Iba_chr01aCG9200			
+apg489	Iba_chr01aCG7020			
+apg490	Iba_chr01aCG9680	Iba_chr01bCG9940		
+apg491	Iba_chr01aCG10930			
+apg492	Iba_chr01aCG6170			
+apg493	Iba_chr01bCG8390	Iba_chr01aCG8350		
+apg494	Iba_chr01aCG15380	Iba_chr01bCG15930		
+apg495	Iba_chr01aCG18890			
+apg496	Iba_chr01aCG20760			
+apg497	Iba_chr01aCG19740			
+apg498	Iba_chr01aCG16230			
+apg499	Iba_chr01aCG17560			
+apg500	Iba_chr01aCG18410			
+apg501	Iba_chr01aCG1710			
+apg502	Iba_chr01bCG14180	Iba_chr01aCG14050		
+apg503	Iba_chr01aCG21610			
+apg504	Iba_chr01aCG10960			
+apg505	Iba_chr01aCG0880	Iba_chr01bCG1870		
+apg506	Iba_chr01aCG9210	Iba_chr01bCG9470		
+apg507	Iba_chr01aCG6180			
+apg508	Iba_chr01aCG11810	Iba_chr01aCG11800	Iba_chr01bCG11910	
+apg509	Iba_chr01aCG7030			
+apg510	Iba_chr01aCG8360			
+apg511	Iba_chr01aCG9690	Iba_chr01bCG9960		
+apg512	Iba_chr01aCG17590			
+apg513	Iba_chr01aCG19770	Iba_chr01bCG19030		
+apg514	Iba_chr01aCG16260			
+apg515	Iba_chr01aCG17110			
+apg516	Iba_chr01aCG18440	Iba_chr01bCG17540		
+apg517	Iba_chr01aCG3900			
+apg518	Iba_chr01aCG1720	Iba_chr01bCG0300		
+apg519	Iba_chr01aCG20730			
+apg520	Iba_chr01aCG14080			
+apg521	Iba_chr01aCG1740			
+apg522	Iba_chr01aCG0890			
+apg523	Iba_chr01bCG9480	Iba_chr01aCG9220		
+apg524	Iba_chr01aCG8370	Iba_chr01bCG8400		
+apg525	Iba_chr01bCG11160	Iba_chr01aCG10950		
+apg526	Iba_chr01aCG7040			
+apg527	Iba_chr01aCG6190			
+apg528	Iba_chr01aCG16250			
+apg529	Iba_chr01aCG17580			
+apg530	Iba_chr01aCG18430	Iba_chr01bCG17530		
+apg531	Iba_chr01aCG19760	Iba_chr01bCG19020		
+apg532	Iba_chr01aCG17100			
+apg533	Iba_chr01aCG3910			
+apg534	Iba_chr01aCG1730			
+apg535	Iba_chr01aCG0400	Iba_chr01bCG0770		
+apg536	Iba_chr01aCG20740			
+apg537	Iba_chr01aCG14070			
+apg538	Iba_chr01aCG14300			
+apg539	Iba_chr01aCG1630	Iba_chr01bCG0220		
+apg540	Iba_chr01aCG2960	Iba_chr01bCG3130		
+apg541	Iba_chr01bCG0490	Iba_chr01aCG0780		
+apg542	Iba_chr01aCG12120			
+apg543	Iba_chr01aCG13450	Iba_chr01bCG13550	Iba_chr01bCG13560	
+apg544	Iba_chr01aCG21080			
+apg545	Iba_chr01aCG16960			
+apg546	Iba_chr01aCG9110	Iba_chr01bCG9380		
+apg547	Iba_chr01aCG15630	Iba_chr01aCG15520	Iba_chr01bCG16190	
+apg548	Iba_chr01aCG8260			
+apg549	Iba_chr01aCG17810	Iba_chr01bCG16970		
+apg550	Iba_chr01aCG9590			
+apg551	Iba_chr01bCG7830	Iba_chr01aCG6080	Iba_chr01aCG7660	
+apg552	Iba_chr01aCG11270			
+apg553	Iba_chr01aCG14780			
+apg554	Iba_chr01aCG3800			
+apg555	Iba_chr01bCG0210	Iba_chr01aCG1620		
+apg556	Iba_chr01aCG0790	Iba_chr01bCG1940		
+apg557	Iba_chr01aCG1640	Iba_chr01bCG0240		
+apg558	Iba_chr01aCG12110	Iba_chr01bCG12190		
+apg559	Iba_chr01bCG0830	Iba_chr01aCG0310		
+apg560	Iba_chr01aCG2970			
+apg561	Iba_chr01aCG13440			
+apg562	Iba_chr01aCG14770			
+apg563	Iba_chr01aCG16950			
+apg564	Iba_chr01aCG15620			
+apg565	Iba_chr01aCG17800	Iba_chr01bCG16960		
+apg566	Iba_chr01aCG8270	Iba_chr01bCG8320		
+apg567	Iba_chr01aCG9120	Iba_chr01bCG9390		
+apg568	Iba_chr01aCG6090			
+apg569	Iba_chr01aCG12590			
+apg570	Iba_chr01aCG11260	Iba_chr01bCG11420		
+apg571	Iba_chr01aCG0300	Iba_chr01bCG0840		
+apg572	Iba_chr01bCG4050	Iba_chr01bCG4660	Iba_chr01aCG3810	
+apg573	Iba_chr01aCG0320			
+apg574	Iba_chr01aCG3830			
+apg575	Iba_chr01aCG14320	Iba_chr01bCG14430		
+apg576	Iba_chr01aCG1650			
+apg577	Iba_chr01aCG2980			
+apg578	Iba_chr01aCG15650	Iba_chr01aCG15560		
+apg579	Iba_chr01aCG21060			
+apg580	Iba_chr01aCG16500			
+apg581	Iba_chr01aCG17830	Iba_chr01bCG16990		
+apg582	Iba_chr01aCG9130			
+apg583	Iba_chr01aCG8280	Iba_chr01bCG8340		
+apg584	Iba_chr01aCG16980			
+apg585	Iba_chr01aCG12140			
+apg586	Iba_chr01aCG13470	Iba_chr01bCG13570	Iba_chr01bCG13580	
+apg587	Iba_chr01aCG11290			
+apg588	Iba_chr01bCG4070	Iba_chr01aCG3820	Iba_chr01bCG4670	
+apg589	Iba_chr01aCG2990			
+apg590	Iba_chr01aCG2510			
+apg591	Iba_chr01aCG3840			
+apg592	Iba_chr01aCG14310			
+apg593	Iba_chr01aCG1660			
+apg594	Iba_chr01aCG12130	Iba_chr01bCG12210		
+apg595	Iba_chr01aCG0330			
+apg596	Iba_chr01aCG16970			
+apg597	Iba_chr01aCG15640	Iba_chr01aCG15530		
+apg598	Iba_chr01aCG21070			
+apg599	Iba_chr01aCG17820			
+apg600	Iba_chr01aCG9140			
+apg601	Iba_chr01aCG8290	Iba_chr01bCG8350		
+apg602	Iba_chr01aCG13460			
+apg603	Iba_chr01aCG14790			
+apg604	Iba_chr01aCG2500			
+apg605	Iba_chr01aCG11280			
+apg606	Iba_chr01aCG1670	Iba_chr01bCG0250		
+apg607	Iba_chr01aCG2540	Iba_chr01aCG2520		
+apg608	Iba_chr01aCG0340			
+apg609	Iba_chr01aCG3850	Iba_chr01bCG4690		
+apg610	Iba_chr01aCG13010	Iba_chr01bCG12670		
+apg611	Iba_chr01aCG16520			
+apg612	Iba_chr01aCG17850			
+apg613	Iba_chr01aCG18700	Iba_chr01bCG19760		
+apg614	Iba_chr01aCG9150	Iba_chr01bCG9410		
+apg615	Iba_chr01aCG15670			
+apg616	Iba_chr01aCG14340	Iba_chr01bCG14450		
+apg617	Iba_chr01aCG12160	Iba_chr01bCG12240	Iba_chr01bCG12250	Iba_chr01aCG12170
+apg618	Iba_chr01aCG13490	Iba_chr01bCG13600		
+apg619	Iba_chr01aCG1680	Iba_chr01bCG0260		
+apg620	Iba_chr01aCG0350			
+apg621	Iba_chr01aCG1200	Iba_chr01bCG1500		
+apg622	Iba_chr01aCG4710	Iba_chr01bCG5400	Iba_chr01aCG4720	
+apg623	Iba_chr01aCG2530			
+apg624	Iba_chr01aCG13000			
+apg625	Iba_chr01aCG3860	Iba_chr01bCG4090		
+apg626	Iba_chr01aCG14330			
+apg627	Iba_chr01aCG17840			
+apg628	Iba_chr01aCG16510			
+apg629	Iba_chr01aCG9160			
+apg630	Iba_chr01aCG16990			
+apg631	Iba_chr01aCG15660	Iba_chr01bCG16240	Iba_chr01aCG15570	
+apg632	Iba_chr01aCG12150	Iba_chr01bCG12220		
+apg633	Iba_chr01aCG13480			
+apg634	Iba_chr01aCG4700			
+apg635	Iba_chr01aCG0360	Iba_chr01bCG0810		
+apg636	Iba_chr01aCG3870	Iba_chr01bCG4100	Iba_chr01bCG4710	
+apg637	Iba_chr01aCG1690	Iba_chr01bCG0270		
+apg638	Iba_chr01aCG1210	Iba_chr01bCG1490		
+apg639	Iba_chr01aCG15210	Iba_chr01bCG15740		
+apg640	Iba_chr01aCG18720	Iba_chr01bCG19790		
+apg641	Iba_chr01aCG9170			
+apg642	Iba_chr01aCG15690			
+apg643	Iba_chr01aCG16540			
+apg644	Iba_chr01aCG17870			
+apg645	Iba_chr01aCG13030			
+apg646	Iba_chr01aCG14360	Iba_chr01bCG14480		
+apg647	Iba_chr01aCG12180	Iba_chr01bCG12260	Iba_chr01bCG12270	
+apg648	Iba_chr01aCG2550			
+apg649	Iba_chr01bCG4120	Iba_chr01aCG3880		
+apg650	Iba_chr01aCG0370	Iba_chr01bCG0800		
+apg651	Iba_chr01aCG6910			
+apg652	Iba_chr01aCG3400	Iba_chr01bCG3500		
+apg653	Iba_chr01aCG1220	Iba_chr01bCG1480		
+apg654	Iba_chr01aCG4730			
+apg655	Iba_chr01aCG16530			
+apg656	Iba_chr01aCG15200			
+apg657	Iba_chr01aCG18710			
+apg658	Iba_chr01aCG9180	Iba_chr01bCG9440		
+apg659	Iba_chr01aCG15680	Iba_chr01aCG15590	Iba_chr01bCG16270	
+apg660	Iba_chr01aCG17860	Iba_chr01bCG17000		
+apg661	Iba_chr01aCG13020			
+apg662	Iba_chr01aCG14350			
+apg663	Iba_chr01aCG6900			
+apg664	Iba_chr01aCG14700	Iba_chr01bCG15410		
+apg665	Iba_chr01aCG1230	Iba_chr01bCG1470		
+apg666	Iba_chr01aCG2560			
+apg667	Iba_chr01aCG0380	Iba_chr01bCG0790		
+apg668	Iba_chr01aCG3890	Iba_chr01bCG4130	Iba_chr01bCG4740	
+apg669	Iba_chr01aCG6920			
+apg670	Iba_chr01aCG12520			
+apg671	Iba_chr01aCG13850	Iba_chr01bCG13990		
+apg672	Iba_chr01aCG11670			
+apg673	Iba_chr01aCG3410			
+apg674	Iba_chr01aCG10340	Iba_chr01aCG10320	Iba_chr01bCG10540	
+apg675	Iba_chr01aCG4740			
+apg676	Iba_chr01aCG21000			
+apg677	Iba_chr01aCG9190			
+apg678	Iba_chr01aCG21480			
+apg679	Iba_chr01aCG20150	Iba_chr01bCG19410		
+apg680	Iba_chr01aCG19150			
+apg681	Iba_chr01aCG1240			
+apg682	Iba_chr01aCG4750	Iba_chr01aCG4560		
+apg683	Iba_chr01aCG12510	Iba_chr01bCG12620		
+apg684	Iba_chr01aCG6930			
+apg685	Iba_chr01aCG10330	Iba_chr01bCG10530		
+apg686	Iba_chr01aCG2570			
+apg687	Iba_chr01aCG5600			
+apg688	Iba_chr01aCG13840	Iba_chr01bCG13980		
+apg689	Iba_chr01aCG12990	Iba_chr01bCG12700		
+apg690	Iba_chr01aCG11660			
+apg691	Iba_chr01aCG3420			
+apg692	Iba_chr01aCG21490			
+apg693	Iba_chr01aCG0390	Iba_chr01bCG0780		
+apg694	Iba_chr01aCG19140			
+apg695	Iba_chr01aCG20160	Iba_chr01bCG19420		
+apg696	Iba_chr01aCG21010			
+apg697	Iba_chr01aCG18290	Iba_chr01bCG17440		
+apg698	Iba_chr01aCG3430			
+apg699	Iba_chr01aCG6940			
+apg700	Iba_chr01aCG4760			
+apg701	Iba_chr01aCG5610			
+apg702	Iba_chr01aCG11210	Iba_chr01bCG11370		
+apg703	Iba_chr01aCG14720			
+apg704	Iba_chr01aCG1250			
+apg705	Iba_chr01aCG2580			
+apg706	Iba_chr01aCG10360	Iba_chr01bCG10560		
+apg707	Iba_chr01aCG12540			
+apg708	Iba_chr01aCG13870	Iba_chr01bCG14020		
+apg709	Iba_chr01aCG2100	Iba_chr01bCG2650		
+apg710	Iba_chr01aCG11690	Iba_chr01bCG11810		
+apg711	Iba_chr01aCG16900			
+apg712	Iba_chr01aCG21460			
+apg713	Iba_chr01aCG20130	Iba_chr01bCG19370		
+apg714	Iba_chr01aCG19170			
+apg715	Iba_chr01aCG5620			
+apg716	Iba_chr01aCG2110	Iba_chr01bCG2660		
+apg717	Iba_chr01aCG3440			
+apg718	Iba_chr01aCG14710			
+apg719	Iba_chr01aCG1260	Iba_chr01bCG1460		
+apg720	Iba_chr01bCG6090	Iba_chr01aCG4770		
+apg721	Iba_chr01aCG12530			
+apg722	Iba_chr01aCG7800			
+apg723	Iba_chr01aCG11200			
+apg724	Iba_chr01aCG13860	Iba_chr01bCG14010		
+apg725	Iba_chr01aCG6950			
+apg726	Iba_chr01aCG10350	Iba_chr01bCG10550		
+apg727	Iba_chr01aCG11680	Iba_chr01bCG11800		
+apg728	Iba_chr01aCG2590			
+apg729	Iba_chr01aCG21470			
+apg730	Iba_chr01aCG20140	Iba_chr01bCG19390		
+apg731	Iba_chr01aCG19160			
+apg732	Iba_chr01aCG2120			
+apg733	Iba_chr01aCG7810			
+apg734	Iba_chr01bCG3730	Iba_chr01aCG3450		
+apg735	Iba_chr01aCG4780			
+apg736	Iba_chr01aCG13410	Iba_chr01bCG13510		
+apg737	Iba_chr01bCG11390	Iba_chr01aCG11230		
+apg738	Iba_chr01aCG14740			
+apg739	Iba_chr01aCG6960			
+apg740	Iba_chr01aCG4300			
+apg741	Iba_chr01aCG5630	Iba_chr01aCG6300	Iba_chr01bCG6670	
+apg742	Iba_chr01aCG12560	Iba_chr01bCG12640		
+apg743	Iba_chr01aCG13890	Iba_chr01bCG14040		
+apg744	Iba_chr01bCG19460	Iba_chr01aCG20190		
+apg745	Iba_chr01aCG1270	Iba_chr01bCG1430		
+apg746	Iba_chr01aCG16920			
+apg747	Iba_chr01aCG21040			
+apg748	Iba_chr01aCG19190			
+apg749	Iba_chr01aCG10380			
+apg750	Iba_chr01aCG4310			
+apg751	Iba_chr01aCG7820	Iba_chr01aCG5880		
+apg752	Iba_chr01aCG13400			
+apg753	Iba_chr01aCG2130			
+apg754	Iba_chr01aCG3460	Iba_chr01bCG4430		
+apg755	Iba_chr01aCG14730			
+apg756	Iba_chr01aCG12550	Iba_chr01bCG12630		
+apg757	Iba_chr01aCG6970			
+apg758	Iba_chr01aCG10370			
+apg759	Iba_chr01aCG11220			
+apg760	Iba_chr01aCG5640			
+apg761	Iba_chr01aCG13880	Iba_chr01bCG14030		
+apg762	Iba_chr01aCG21050			
+apg763	Iba_chr01aCG1280	Iba_chr01bCG1410		
+apg764	Iba_chr01aCG4790			
+apg765	Iba_chr01aCG16910			
+apg766	Iba_chr01bCG18430	Iba_chr01aCG19180		
+apg767	Iba_chr01aCG6500			
+apg768	Iba_chr01aCG4320	Iba_chr01bCG5140		
+apg769	Iba_chr01aCG2140			
+apg770	Iba_chr01aCG6980			
+apg771	Iba_chr01aCG5650	Iba_chr01bCG6690	Iba_chr01aCG6310	
+apg772	Iba_chr01aCG12100	Iba_chr01bCG12180		
+apg773	Iba_chr01aCG13430			
+apg774	Iba_chr01aCG7830	Iba_chr01aCG5870		
+apg775	Iba_chr01aCG11250	Iba_chr01bCG11410		
+apg776	Iba_chr01aCG14760	Iba_chr01bCG15490		
+apg777	Iba_chr01aCG16940			
+apg778	Iba_chr01aCG20170	Iba_chr01bCG19440		
+apg779	Iba_chr01aCG3470			
+apg780	Iba_chr01aCG15610	Iba_chr01bCG16290		
+apg781	Iba_chr01aCG1290			
+apg782	Iba_chr01aCG21020			
+apg783	Iba_chr01aCG12580			
+apg784	Iba_chr01aCG3000	Iba_chr01bCG3160		
+apg785	Iba_chr01aCG4330	Iba_chr01bCG5150		
+apg786	Iba_chr01aCG5660			
+apg787	Iba_chr01aCG13420			
+apg788	Iba_chr01aCG14750			
+apg789	Iba_chr01aCG12570	Iba_chr01bCG12650		
+apg790	Iba_chr01aCG6510	Iba_chr01bCG6910		
+apg791	Iba_chr01aCG7840			
+apg792	Iba_chr01aCG11240	Iba_chr01bCG11400		
+apg793	Iba_chr01aCG20180			
+apg794	Iba_chr01aCG6990			
+apg795	Iba_chr01aCG16930			
+apg796	Iba_chr01aCG2150			
+apg797	Iba_chr01aCG3480			
+apg798	Iba_chr01aCG15600	Iba_chr01bCG16280		
+apg799	Iba_chr01aCG21030			
+apg800	Iba_chr01aCG10390	Iba_chr01bCG10580		
+apg801	Iba_chr01aCG10860	Iba_chr01bCG11070		
+apg802	Iba_chr01aCG4220			
+apg803	Iba_chr01aCG9910	Iba_chr01bCG10200		
+apg804	Iba_chr01aCG5550			
+apg805	Iba_chr01aCG6400			
+apg806	Iba_chr01aCG7730			
+apg807	Iba_chr01aCG6880			
+apg808	Iba_chr01aCG2040	Iba_chr01bCG2560		
+apg809	Iba_chr01aCG3370	Iba_chr01bCG3480		
+apg810	Iba_chr01aCG1190	Iba_chr01bCG1510		
+apg811	Iba_chr01bCG11850	Iba_chr01aCG11710		
+apg812	Iba_chr01aCG19670	Iba_chr01bCG18910		
+apg813	Iba_chr01aCG20670			
+apg814	Iba_chr01aCG16160			
+apg815	Iba_chr01aCG17490			
+apg816	Iba_chr01aCG18340	Iba_chr01bCG17480		
+apg817	Iba_chr01aCG21520			
+apg818	Iba_chr01aCG17010			
+apg819	Iba_chr01aCG10850	Iba_chr01bCG11060		
+apg820	Iba_chr01aCG4230			
+apg821	Iba_chr01aCG7740			
+apg822	Iba_chr01bCG10210	Iba_chr01aCG9920		
+apg823	Iba_chr01aCG6410			
+apg824	Iba_chr01aCG6890			
+apg825	Iba_chr01aCG5560			
+apg826	Iba_chr01aCG2050	Iba_chr01bCG2570		
+apg827	Iba_chr01aCG11700	Iba_chr01bCG11820		
+apg828	Iba_chr01aCG3380			
+apg829	Iba_chr01aCG17480			
+apg830	Iba_chr01aCG19660			
+apg831	Iba_chr01aCG16150			
+apg832	Iba_chr01aCG21530			
+apg833	Iba_chr01aCG20200	Iba_chr01bCG19470		
+apg834	Iba_chr01aCG17000			
+apg835	Iba_chr01aCG18330	Iba_chr01bCG17460		
+apg836	Iba_chr01aCG20680			
+apg837	Iba_chr01aCG11730	Iba_chr01bCG11870		
+apg838	Iba_chr01aCG10880	Iba_chr01bCG11090		
+apg839	Iba_chr01aCG9930	Iba_chr01bCG10220		
+apg840	Iba_chr01bCG6800	Iba_chr01aCG6420		
+apg841	Iba_chr01aCG7750	Iba_chr01aCG5980		
+apg842	Iba_chr01aCG8600			
+apg843	Iba_chr01aCG5570			
+apg844	Iba_chr01aCG4240			
+apg845	Iba_chr01aCG10400	Iba_chr01bCG10590		
+apg846	Iba_chr01aCG13910			
+apg847	Iba_chr01bCG2590	Iba_chr01aCG2060		
+apg848	Iba_chr01aCG3390			
+apg849	Iba_chr01aCG18360	Iba_chr01bCG17500		
+apg850	Iba_chr01aCG19690	Iba_chr01bCG18940		
+apg851	Iba_chr01aCG20650			
+apg852	Iba_chr01aCG17030			
+apg853	Iba_chr01aCG19210			
+apg854	Iba_chr01aCG21500			
+apg855	Iba_chr01aCG16180			
+apg856	Iba_chr01aCG10870	Iba_chr01bCG11080		
+apg857	Iba_chr01aCG6430			
+apg858	Iba_chr01aCG5100	Iba_chr01bCG5740		
+apg859	Iba_chr01aCG8610			
+apg860	Iba_chr01aCG9940			
+apg861	Iba_chr01aCG5580	Iba_chr01bCG6630		
+apg862	Iba_chr01aCG7760			
+apg863	Iba_chr01aCG4250			
+apg864	Iba_chr01aCG13900			
+apg865	Iba_chr01bCG2600	Iba_chr01aCG2070		
+apg866	Iba_chr01aCG11720			
+apg867	Iba_chr01aCG16170			
+apg868	Iba_chr01aCG20660			
+apg869	Iba_chr01aCG17020			
+apg870	Iba_chr01aCG18350	Iba_chr01bCG17490		
+apg871	Iba_chr01aCG19680	Iba_chr01bCG18920		
+apg872	Iba_chr01aCG19200	Iba_chr01bCG18450		
+apg873	Iba_chr01aCG21510			
+apg874	Iba_chr01aCG13930			
+apg875	Iba_chr01aCG10420	Iba_chr01bCG10610		
+apg876	Iba_chr01bCG11880	Iba_chr01aCG11750		
+apg877	Iba_chr01aCG5110			
+apg878	Iba_chr01aCG8620			
+apg879	Iba_chr01aCG9950	Iba_chr01bCG10230		
+apg880	Iba_chr01aCG5590	Iba_chr01bCG6640		
+apg881	Iba_chr01aCG2080	Iba_chr01bCG2620		
+apg882	Iba_chr01aCG6440	Iba_chr01bCG6820		
+apg883	Iba_chr01aCG7770	Iba_chr01aCG5920		
+apg884	Iba_chr01bCG5070	Iba_chr01aCG4260		
+apg885	Iba_chr01aCG12600			
+apg886	Iba_chr01aCG19230	Iba_chr01bCG18470		
+apg887	Iba_chr01aCG20230			
+apg888	Iba_chr01aCG17050			
+apg889	Iba_chr01aCG21560			
+apg890	Iba_chr01aCG18380			
+apg891	Iba_chr01aCG11740			
+apg892	Iba_chr01aCG10410	Iba_chr01bCG10600		
+apg893	Iba_chr01aCG7300	Iba_chr01bCG7520		
+apg894	Iba_chr01aCG8630			
+apg895	Iba_chr01aCG10890	Iba_chr01bCG11100		
+apg896	Iba_chr01aCG2090			
+apg897	Iba_chr01aCG7780			
+apg898	Iba_chr01aCG9960			
+apg899	Iba_chr01aCG6450			
+apg900	Iba_chr01aCG5120			
+apg901	Iba_chr01aCG4270	Iba_chr01bCG5090		
+apg902	Iba_chr01aCG13920			
+apg903	Iba_chr01aCG17040			
+apg904	Iba_chr01aCG18370	Iba_chr01bCG17510		
+apg905	Iba_chr01aCG19220			
+apg906	Iba_chr01aCG21570			
+apg907	Iba_chr01aCG20240			
+apg908	Iba_chr01aCG16190			
+apg909	Iba_chr01aCG12620			
+apg910	Iba_chr01aCG10440			
+apg911	Iba_chr01aCG13950	Iba_chr01bCG14060		
+apg912	Iba_chr01aCG7310			
+apg913	Iba_chr01aCG11770			
+apg914	Iba_chr01aCG4280			
+apg915	Iba_chr01aCG9970			
+apg916	Iba_chr01aCG6460	Iba_chr01bCG6850		
+apg917	Iba_chr01aCG7790			
+apg918	Iba_chr01aCG5130	Iba_chr01bCG5680		
+apg919	Iba_chr01aCG8640	Iba_chr01bCG8710		
+apg920	Iba_chr01aCG14800			
+apg921	Iba_chr01aCG19250			
+apg922	Iba_chr01bCG19480	Iba_chr01aCG20210		
+apg923	Iba_chr01aCG20690			
+apg924	Iba_chr01aCG17070			
+apg925	Iba_chr01aCG10430	Iba_chr01bCG10620		
+apg926	Iba_chr01aCG12610			
+apg927	Iba_chr01aCG13940	Iba_chr01bCG14050		
+apg928	Iba_chr01aCG11760			
+apg929	Iba_chr01aCG9500			
+apg930	Iba_chr01aCG6470	Iba_chr01bCG6860		
+apg931	Iba_chr01aCG4290	Iba_chr01bCG5120		
+apg932	Iba_chr01aCG5140			
+apg933	Iba_chr01aCG7320			
+apg934	Iba_chr01aCG8650	Iba_chr01bCG8720		
+apg935	Iba_chr01aCG9980	Iba_chr01bCG10260		
+apg936	Iba_chr01aCG21550			
+apg937	Iba_chr01aCG20220	Iba_chr01bCG19500		
+apg938	Iba_chr01aCG19240	Iba_chr01bCG18480		
+apg939	Iba_chr01aCG17060			
+apg940	Iba_chr01aCG18390			
+apg941	Iba_chr01aCG9510	Iba_chr01bCG9730		
+apg942	Iba_chr01aCG5150			
+apg943	Iba_chr01aCG8660	Iba_chr01bCG8740		
+apg944	Iba_chr01aCG17410			
+apg945	Iba_chr01aCG9990			
+apg946	Iba_chr01aCG6000	Iba_chr01aCG7720		
+apg947	Iba_chr01aCG7330	Iba_chr01bCG7540		
+apg948	Iba_chr01aCG6480			
+apg949	Iba_chr01aCG16560			
+apg950	Iba_chr01aCG17890	Iba_chr01bCG17040		
+apg951	Iba_chr01bCG15760	Iba_chr01aCG15230		
+apg952	Iba_chr01aCG18740	Iba_chr01bCG19800		
+apg953	Iba_chr01aCG13050			
+apg954	Iba_chr01aCG14380	Iba_chr01bCG14490		
+apg955	Iba_chr01aCG7340	Iba_chr01bCG7550		
+apg956	Iba_chr01aCG17400			
+apg957	Iba_chr01aCG8670			
+apg958	Iba_chr01aCG9520	Iba_chr01bCG9740		
+apg959	Iba_chr01aCG18730			
+apg960	Iba_chr01aCG6010	Iba_chr01aCG7710		
+apg961	Iba_chr01aCG6490	Iba_chr01bCG6870		
+apg962	Iba_chr01aCG5160	Iba_chr01bCG5670	Iba_chr01bCG5700	
+apg963	Iba_chr01aCG17880	Iba_chr01bCG17030		
+apg964	Iba_chr01aCG16550			
+apg965	Iba_chr01aCG15220	Iba_chr01bCG15750		
+apg966	Iba_chr01aCG13040			
+apg967	Iba_chr01aCG14370			
+apg968	Iba_chr01aCG12190	Iba_chr01bCG12280		
+apg969	Iba_chr01aCG0700			
+apg970	Iba_chr01aCG20600			
+apg971	Iba_chr01aCG9530			
+apg972	Iba_chr01aCG6020			
+apg973	Iba_chr01aCG7350	Iba_chr01aCG7290		
+apg974	Iba_chr01aCG8200			
+apg975	Iba_chr01aCG10800	Iba_chr01bCG11000		
+apg976	Iba_chr01aCG19610	Iba_chr01bCG18840		
+apg977	Iba_chr01aCG5170	Iba_chr01bCG5650		
+apg978	Iba_chr01aCG8680			
+apg979	Iba_chr01aCG16580	Iba_chr01aCG16570		
+apg980	Iba_chr01aCG15250			
+apg981	Iba_chr01aCG18760	Iba_chr01bCG19830		
+apg982	Iba_chr01aCG16100			
+apg983	Iba_chr01aCG17430			
+apg984	Iba_chr01aCG0760	Iba_chr01aCG0710	Iba_chr01bCG0520	
+apg985	Iba_chr01aCG13070			
+apg986	Iba_chr01aCG6030	Iba_chr01aCG7700	Iba_chr01bCG7880	
+apg987	Iba_chr01aCG8210			
+apg988	Iba_chr01aCG9540			
+apg989	Iba_chr01aCG19600	Iba_chr01bCG18830		
+apg990	Iba_chr01aCG5180	Iba_chr01bCG5630		
+apg991	Iba_chr01aCG7360	Iba_chr01bCG7560		
+apg992	Iba_chr01aCG8690	Iba_chr01bCG8770		
+apg993	Iba_chr01aCG15240			
+apg994	Iba_chr01aCG17420			
+apg995	Iba_chr01aCG18750	Iba_chr01bCG19810		
+apg996	Iba_chr01aCG0720	Iba_chr01bCG0510		
+apg997	Iba_chr01aCG13060	Iba_chr01bCG12900		
+apg998	Iba_chr01aCG14390			
+apg999	Iba_chr01aCG2900			
+apg1000	Iba_chr01aCG8220			
+apg1001	Iba_chr01aCG9550	Iba_chr01bCG9780		
+apg1002	Iba_chr01aCG5190			
+apg1003	Iba_chr01aCG10820	Iba_chr01bCG11030		
+apg1004	Iba_chr01aCG6040			
+apg1005	Iba_chr01aCG7370	Iba_chr01bCG7570		
+apg1006	Iba_chr01aCG15270	Iba_chr01bCG15790		
+apg1007	Iba_chr01aCG18780			
+apg1008	Iba_chr01aCG19630	Iba_chr01bCG18880		
+apg1009	Iba_chr01aCG16120			
+apg1010	Iba_chr01aCG17450			
+apg1011	Iba_chr01aCG18300			
+apg1012	Iba_chr01aCG2910			
+apg1013	Iba_chr01aCG0730			
+apg1014	Iba_chr01aCG20630			
+apg1015	Iba_chr01aCG13090			
+apg1016	Iba_chr01aCG0750	Iba_chr01aCG0770	Iba_chr01bCG0500	
+apg1017	Iba_chr01aCG8230	Iba_chr01bCG8290		
+apg1018	Iba_chr01aCG7380			
+apg1019	Iba_chr01aCG9560			
+apg1020	Iba_chr01aCG10810	Iba_chr01bCG11010		
+apg1021	Iba_chr01aCG6050	Iba_chr01bCG7860		
+apg1022	Iba_chr01aCG16590			
+apg1023	Iba_chr01aCG15260	Iba_chr01bCG15780		
+apg1024	Iba_chr01aCG20640			
+apg1025	Iba_chr01aCG17440			
+apg1026	Iba_chr01aCG18770			
+apg1027	Iba_chr01aCG19620	Iba_chr01bCG18850		
+apg1028	Iba_chr01aCG16110			
+apg1029	Iba_chr01aCG2920			
+apg1030	Iba_chr01aCG0740			
+apg1031	Iba_chr01aCG13080	Iba_chr01bCG12920		
+apg1032	Iba_chr01aCG9570	Iba_chr01bCG9800		
+apg1033	Iba_chr01bCG7850	Iba_chr01aCG7670	Iba_chr01aCG6060	
+apg1034	Iba_chr01aCG7390			
+apg1035	Iba_chr01aCG8240	Iba_chr01bCG8300		
+apg1036	Iba_chr01aCG10840	Iba_chr01bCG11050		
+apg1037	Iba_chr01aCG15290	Iba_chr01bCG15810		
+apg1038	Iba_chr01aCG16140			
+apg1039	Iba_chr01aCG17470			
+apg1040	Iba_chr01aCG18320			
+apg1041	Iba_chr01aCG19650			
+apg1042	Iba_chr01aCG1600			
+apg1043	Iba_chr01aCG2930			
+apg1044	Iba_chr01aCG20610			
+apg1045	Iba_chr01aCG2950			
+apg1046	Iba_chr01aCG9100	Iba_chr01bCG9360		
+apg1047	Iba_chr01aCG6070	Iba_chr01bCG7840		
+apg1048	Iba_chr01aCG8250	Iba_chr01bCG8310		
+apg1049	Iba_chr01aCG9580			
+apg1050	Iba_chr01aCG10830	Iba_chr01bCG11040		
+apg1051	Iba_chr01aCG15280			
+apg1052	Iba_chr01aCG17460			
+apg1053	Iba_chr01bCG19840	Iba_chr01aCG18790		
+apg1054	Iba_chr01aCG16130			
+apg1055	Iba_chr01aCG18310			
+apg1056	Iba_chr01aCG19640	Iba_chr01bCG18890		
+apg1057	Iba_chr01bCG0200	Iba_chr01aCG1610		
+apg1058	Iba_chr01aCG2940			
+apg1059	Iba_chr01aCG20620			
+apg1060	Iba_chr01aCG2840			
+apg1061	Iba_chr01aCG12000	Iba_chr01bCG12070		
+apg1062	Iba_chr01aCG1990			
+apg1063	Iba_chr01aCG13330	Iba_chr01bCG13200		
+apg1064	Iba_chr01aCG0660	Iba_chr01bCG0560		
+apg1065	Iba_chr01aCG14660			
+apg1066	Iba_chr01aCG16840			
+apg1067	Iba_chr01aCG15510			
+apg1068	Iba_chr01aCG8140			
+apg1069	Iba_chr01aCG9470			
+apg1070	Iba_chr01aCG15990			
+apg1071	Iba_chr01aCG12480			
+apg1072	Iba_chr01aCG11150	Iba_chr01bCG11330		
+apg1073	Iba_chr01aCG1500	Iba_chr01bCG0060		
+apg1074	Iba_chr01aCG2830			
+apg1075	Iba_chr01aCG1520			
+apg1076	Iba_chr01aCG2850			
+apg1077	Iba_chr01aCG13320	Iba_chr01bCG13190		
+apg1078	Iba_chr01aCG0670	Iba_chr01bCG0550		
+apg1079	Iba_chr01aCG11140	Iba_chr01bCG11320		
+apg1080	Iba_chr01aCG14650	Iba_chr01bCG15370		
+apg1081	Iba_chr01aCG15980			
+apg1082	Iba_chr01aCG9000	Iba_chr01aCG8990	Iba_chr01bCG9010	
+apg1083	Iba_chr01aCG16830			
+apg1084	Iba_chr01aCG8150	Iba_chr01bCG8200		
+apg1085	Iba_chr01aCG15500	Iba_chr01bCG16170		
+apg1086	Iba_chr01aCG9480			
+apg1087	Iba_chr01aCG10290			
+apg1088	Iba_chr01aCG12470			
+apg1089	Iba_chr01aCG1510			
+apg1090	Iba_chr01aCG0680	Iba_chr01bCG0540		
+apg1091	Iba_chr01aCG1530			
+apg1092	Iba_chr01aCG0200			
+apg1093	Iba_chr01aCG14200	Iba_chr01bCG14330		
+apg1094	Iba_chr01aCG2860			
+apg1095	Iba_chr01aCG12020	Iba_chr01bCG12090		
+apg1096	Iba_chr01aCG16860			
+apg1097	Iba_chr01aCG17710			
+apg1098	Iba_chr01aCG8160	Iba_chr01bCG8230		
+apg1099	Iba_chr01aCG9010	Iba_chr01bCG9000		
+apg1100	Iba_chr01aCG20090	Iba_chr01bCG19320		
+apg1101	Iba_chr01aCG9490			
+apg1102	Iba_chr01aCG13350			
+apg1103	Iba_chr01aCG14680			
+apg1104	Iba_chr01bCG3960	Iba_chr01aCG3700	Iba_chr01bCG4620	
+apg1105	Iba_chr01aCG11170			
+apg1106	Iba_chr01aCG0690	Iba_chr01bCG0530		
+apg1107	Iba_chr01aCG0210	Iba_chr01bCG0910		
+apg1108	Iba_chr01bCG3980	Iba_chr01aCG3720		
+apg1109	Iba_chr01aCG1540			
+apg1110	Iba_chr01aCG2870			
+apg1111	Iba_chr01aCG12010			
+apg1112	Iba_chr01aCG13340	Iba_chr01bCG13210		
+apg1113	Iba_chr01aCG16850			
+apg1114	Iba_chr01aCG9020	Iba_chr01bCG9290		
+apg1115	Iba_chr01aCG17700	Iba_chr01bCG16890		
+apg1116	Iba_chr01aCG8170			
+apg1117	Iba_chr01aCG11160	Iba_chr01bCG11340		
+apg1118	Iba_chr01aCG14670	Iba_chr01bCG15380		
+apg1119	Iba_chr01aCG3710			
+apg1120	Iba_chr01aCG12490	Iba_chr01bCG12590		
+apg1121	Iba_chr01aCG2880			
+apg1122	Iba_chr01aCG2400			
+apg1123	Iba_chr01aCG3730			
+apg1124	Iba_chr01aCG1550			
+apg1125	Iba_chr01aCG0220			
+apg1126	Iba_chr01aCG14220	Iba_chr01bCG14350		
+apg1127	Iba_chr01aCG17730	Iba_chr01bCG16920		
+apg1128	Iba_chr01aCG19910	Iba_chr01bCG19160		
+apg1129	Iba_chr01aCG16400			
+apg1130	Iba_chr01aCG9030			
+apg1131	Iba_chr01aCG8180	Iba_chr01bCG8240		
+apg1132	Iba_chr01aCG16880			
+apg1133	Iba_chr01aCG15550			
+apg1134	Iba_chr01aCG12040			
+apg1135	Iba_chr01aCG20910			
+apg1136	Iba_chr01bCG13260	Iba_chr01aCG13370		
+apg1137	Iba_chr01aCG5900			
+apg1138	Iba_chr01aCG11190	Iba_chr01bCG11350		
+apg1139	Iba_chr01aCG1560	Iba_chr01bCG0120		
+apg1140	Iba_chr01aCG2890			
+apg1141	Iba_chr01aCG2410			
+apg1142	Iba_chr01aCG0230			
+apg1143	Iba_chr01aCG3740			
+apg1144	Iba_chr01aCG14210	Iba_chr01bCG14340		
+apg1145	Iba_chr01aCG15540	Iba_chr01bCG16210		
+apg1146	Iba_chr01aCG17720	Iba_chr01bCG16910		
+apg1147	Iba_chr01aCG9040	Iba_chr01bCG9300	Iba_chr01bCG8980	
+apg1148	Iba_chr01aCG19900			
+apg1149	Iba_chr01aCG8190			
+apg1150	Iba_chr01aCG16870			
+apg1151	Iba_chr01aCG20920			
+apg1152	Iba_chr01bCG12100	Iba_chr01aCG12030		
+apg1153	Iba_chr01bCG13240	Iba_chr01aCG13360		
+apg1154	Iba_chr01aCG11180			
+apg1155	Iba_chr01aCG14690	Iba_chr01bCG15400		
+apg1156	Iba_chr01aCG5910			
+apg1157	Iba_chr01aCG1570			
+apg1158	Iba_chr01aCG0240	Iba_chr01bCG0890		
+apg1159	Iba_chr01aCG5930			
+apg1160	Iba_chr01aCG4600			
+apg1161	Iba_chr01aCG2420	Iba_chr01bCG2910		
+apg1162	Iba_chr01aCG3750			
+apg1163	Iba_chr01aCG16420			
+apg1164	Iba_chr01aCG18600			
+apg1165	Iba_chr01aCG19930			
+apg1166	Iba_chr01aCG9050	Iba_chr01bCG9310		
+apg1167	Iba_chr01aCG17750	Iba_chr01bCG16940		
+apg1168	Iba_chr01aCG14240	Iba_chr01bCG14370		
+apg1169	Iba_chr01aCG12060	Iba_chr01bCG12150	Iba_chr01aCG12070	
+apg1170	Iba_chr01aCG13390	Iba_chr01bCG13280		
+apg1171	Iba_chr01aCG0250	Iba_chr01bCG0880		
+apg1172	Iba_chr01aCG3760	Iba_chr01bCG4630		
+apg1173	Iba_chr01aCG5940			
+apg1174	Iba_chr01aCG1580			
+apg1175	Iba_chr01aCG4610			
+apg1176	Iba_chr01aCG1100	Iba_chr01bCG1600		
+apg1177	Iba_chr01aCG2430			
+apg1178	Iba_chr01aCG19920	Iba_chr01bCG19170		
+apg1179	Iba_chr01aCG16410			
+apg1180	Iba_chr01aCG17740	Iba_chr01bCG16930		
+apg1181	Iba_chr01aCG9060	Iba_chr01bCG9320		
+apg1182	Iba_chr01aCG16890			
+apg1183	Iba_chr01aCG14230	Iba_chr01bCG14360		
+apg1184	Iba_chr01aCG20900			
+apg1185	Iba_chr01aCG12050			
+apg1186	Iba_chr01bCG13270	Iba_chr01aCG13380		
+apg1187	Iba_chr01aCG2440	Iba_chr01bCG2920		
+apg1188	Iba_chr01aCG5950			
+apg1189	Iba_chr01bCG12490	Iba_chr01aCG12400		
+apg1190	Iba_chr01aCG3770			
+apg1191	Iba_chr01bCG10440	Iba_chr01aCG10220		
+apg1192	Iba_chr01aCG1590			
+apg1193	Iba_chr01aCG13730			
+apg1194	Iba_chr01aCG0260			
+apg1195	Iba_chr01aCG6800			
+apg1196	Iba_chr01aCG12880			
+apg1197	Iba_chr01aCG11550	Iba_chr01bCG11700		
+apg1198	Iba_chr01aCG1110	Iba_chr01bCG1550		
+apg1199	Iba_chr01aCG4620			
+apg1200	Iba_chr01aCG15910			
+apg1201	Iba_chr01aCG19030	Iba_chr01bCG18020		
+apg1202	Iba_chr01aCG20030	Iba_chr01bCG19250		
+apg1203	Iba_chr01aCG9070	Iba_chr01bCG9340		
+apg1204	Iba_chr01aCG21360			
+apg1205	Iba_chr01bCG17350	Iba_chr01aCG18180		
+apg1206	Iba_chr01aCG10210			
+apg1207	Iba_chr01aCG15900			
+apg1208	Iba_chr01aCG1120			
+apg1209	Iba_chr01aCG2450			
+apg1210	Iba_chr01bCG13860	Iba_chr01aCG13720		
+apg1211	Iba_chr01aCG0270	Iba_chr01bCG0870		
+apg1212	Iba_chr01aCG3780			
+apg1213	Iba_chr01aCG6810			
+apg1214	Iba_chr01aCG11540	Iba_chr01bCG11690		
+apg1215	Iba_chr01aCG10690	Iba_chr01bCG10900		
+apg1216	Iba_chr01aCG12870	Iba_chr01bCG12800		
+apg1217	Iba_chr01aCG3300			
+apg1218	Iba_chr01aCG4630	Iba_chr01aCG4680		
+apg1219	Iba_chr01aCG5960			
+apg1220	Iba_chr01aCG19020			
+apg1221	Iba_chr01aCG9080	Iba_chr01bCG9350		
+apg1222	Iba_chr01aCG20040	Iba_chr01bCG19260		
+apg1223	Iba_chr01aCG21370			
+apg1224	Iba_chr01bCG17340	Iba_chr01aCG18170		
+apg1225	Iba_chr01aCG1130	Iba_chr01bCG1540		
+apg1226	Iba_chr01aCG4640	Iba_chr01aCG4690		
+apg1227	Iba_chr01aCG6820			
+apg1228	Iba_chr01aCG14600	Iba_chr01bCG15320		
+apg1229	Iba_chr01aCG2460	Iba_chr01bCG2940		
+apg1230	Iba_chr01aCG12420	Iba_chr01bCG12510		
+apg1231	Iba_chr01aCG3790	Iba_chr01bCG4040	Iba_chr01bCG4640	
+apg1232	Iba_chr01bCG13920	Iba_chr01aCG13750		
+apg1233	Iba_chr01aCG5970			
+apg1234	Iba_chr01aCG3310			
+apg1235	Iba_chr01aCG10240			
+apg1236	Iba_chr01aCG11570			
+apg1237	Iba_chr01aCG0280	Iba_chr01bCG0860		
+apg1238	Iba_chr01aCG15930	Iba_chr01bCG16520		
+apg1239	Iba_chr01aCG20490			
+apg1240	Iba_chr01aCG9090			
+apg1241	Iba_chr01aCG20010			
+apg1242	Iba_chr01aCG21340			
+apg1243	Iba_chr01aCG19050			
+apg1244	Iba_chr01aCG3320	Iba_chr01bCG3420		
+apg1245	Iba_chr01aCG6830			
+apg1246	Iba_chr01aCG4650			
+apg1247	Iba_chr01aCG5500			
+apg1248	Iba_chr01aCG1140			
+apg1249	Iba_chr01aCG2470			
+apg1250	Iba_chr01aCG12410			
+apg1251	Iba_chr01aCG13740	Iba_chr01bCG13910		
+apg1252	Iba_chr01aCG11560	Iba_chr01bCG11710		
+apg1253	Iba_chr01aCG10230			
+apg1254	Iba_chr01aCG12890	Iba_chr01bCG12780		
+apg1255	Iba_chr01bCG0850	Iba_chr01aCG0290		
+apg1256	Iba_chr01aCG15920	Iba_chr01bCG16510		
+apg1257	Iba_chr01aCG20020			
+apg1258	Iba_chr01aCG21350			
+apg1259	Iba_chr01bCG17360	Iba_chr01aCG18190		
+apg1260	Iba_chr01aCG19040			
+apg1261	Iba_chr01aCG5510			
+apg1262	Iba_chr01aCG2000			
+apg1263	Iba_chr01aCG3330	Iba_chr01bCG3440		
+apg1264	Iba_chr01aCG1150			
+apg1265	Iba_chr01aCG4660			
+apg1266	Iba_chr01aCG14620			
+apg1267	Iba_chr01aCG5990			
+apg1268	Iba_chr01aCG12440	Iba_chr01bCG12530		
+apg1269	Iba_chr01aCG10260			
+apg1270	Iba_chr01aCG11110	Iba_chr01bCG11300		
+apg1271	Iba_chr01aCG13770			
+apg1272	Iba_chr01aCG6840			
+apg1273	Iba_chr01aCG15950	Iba_chr01bCG16540		
+apg1274	Iba_chr01aCG2480			
+apg1275	Iba_chr01aCG20070	Iba_chr01bCG19300		
+apg1276	Iba_chr01aCG16800			
+apg1277	Iba_chr01aCG11590			
+apg1278	Iba_chr01aCG19070			
+apg1279	Iba_chr01aCG2010	Iba_chr01bCG2520		
+apg1280	Iba_chr01aCG3340			
+apg1281	Iba_chr01aCG11100	Iba_chr01bCG11290		
+apg1282	Iba_chr01aCG14610			
+apg1283	Iba_chr01aCG4670			
+apg1284	Iba_chr01aCG10250			
+apg1285	Iba_chr01aCG12430			
+apg1286	Iba_chr01bCG13930	Iba_chr01aCG13760		
+apg1287	Iba_chr01aCG6850			
+apg1288	Iba_chr01aCG11580			
+apg1289	Iba_chr01aCG5520	Iba_chr01aCG6210	Iba_chr01bCG6580	
+apg1290	Iba_chr01aCG15940			
+apg1291	Iba_chr01aCG1160			
+apg1292	Iba_chr01aCG2490	Iba_chr01bCG2950		
+apg1293	Iba_chr01aCG20080	Iba_chr01bCG19310		
+apg1294	Iba_chr01aCG19060			
+apg1295	Iba_chr01aCG4200	Iba_chr01bCG6280	Iba_chr01bCG4970	
+apg1296	Iba_chr01aCG2020	Iba_chr01bCG2540		
+apg1297	Iba_chr01aCG3350	Iba_chr01bCG3470		
+apg1298	Iba_chr01aCG13310	Iba_chr01bCG13180		
+apg1299	Iba_chr01aCG6860			
+apg1300	Iba_chr01aCG14640	Iba_chr01bCG15360		
+apg1301	Iba_chr01aCG5530			
+apg1302	Iba_chr01aCG12460	Iba_chr01bCG12550		
+apg1303	Iba_chr01aCG11130	Iba_chr01bCG11310		
+apg1304	Iba_chr01aCG15970	Iba_chr01bCG16600		
+apg1305	Iba_chr01aCG21380			
+apg1306	Iba_chr01aCG1170			
+apg1307	Iba_chr01aCG16820			
+apg1308	Iba_chr01aCG20050	Iba_chr01bCG19270		
+apg1309	Iba_chr01aCG13790	Iba_chr01bCG13950		
+apg1310	Iba_chr01aCG10280			
+apg1311	Iba_chr01aCG19090	Iba_chr01bCG18050		
+apg1312	Iba_chr01aCG4210	Iba_chr01bCG5000		
+apg1313	Iba_chr01aCG2030	Iba_chr01bCG2550		
+apg1314	Iba_chr01aCG9900			
+apg1315	Iba_chr01aCG13300	Iba_chr01bCG13160		
+apg1316	Iba_chr01aCG6870			
+apg1317	Iba_chr01aCG11120			
+apg1318	Iba_chr01aCG14630	Iba_chr01bCG15350		
+apg1319	Iba_chr01aCG5540			
+apg1320	Iba_chr01aCG12450			
+apg1321	Iba_chr01aCG13780	Iba_chr01bCG13940		
+apg1322	Iba_chr01aCG15960	Iba_chr01bCG16550		
+apg1323	Iba_chr01aCG21390			
+apg1324	Iba_chr01aCG3360			
+apg1325	Iba_chr01aCG20060	Iba_chr01bCG19280		
+apg1326	Iba_chr01aCG16810			
+apg1327	Iba_chr01aCG1180	Iba_chr01bCG1520		
+apg1328	Iba_chr01aCG10270			
+apg1329	Iba_chr01aCG19080	Iba_chr01bCG18040		
+apg1330	Iba_chr01aCG4100			
+apg1331	Iba_chr01aCG10740	Iba_chr01bCG10960		
+apg1332	Iba_chr01aCG6760	Iba_chr01bCG7130		
+apg1333	Iba_chr01aCG5430	Iba_chr01bCG6520		
+apg1334	Iba_chr01aCG7610			
+apg1335	Iba_chr01aCG8940	Iba_chr01bCG9180		
+apg1336	Iba_chr01bCG3390	Iba_chr01aCG3250		
+apg1337	Iba_chr01aCG4580			
+apg1338	Iba_chr01aCG1070	Iba_chr01bCG1660		
+apg1339	Iba_chr01aCG12920	Iba_chr01bCG12760		
+apg1340	Iba_chr01aCG17370			
+apg1341	Iba_chr01aCG19550	Iba_chr01bCG18790		
+apg1342	Iba_chr01aCG20550			
+apg1343	Iba_chr01aCG16040			
+apg1344	Iba_chr01aCG18220			
+apg1345	Iba_chr01aCG21400			
+apg1346	Iba_chr01aCG15190			
+apg1347	Iba_chr01aCG4110			
+apg1348	Iba_chr01aCG9800	Iba_chr01bCG10070		
+apg1349	Iba_chr01aCG5440			
+apg1350	Iba_chr01aCG8950	Iba_chr01bCG9200	Iba_chr01aCG8960	
+apg1351	Iba_chr01aCG7620			
+apg1352	Iba_chr01aCG6770	Iba_chr01bCG7140		
+apg1353	Iba_chr01aCG12910			
+apg1354	Iba_chr01aCG3260			
+apg1355	Iba_chr01aCG10730			
+apg1356	Iba_chr01aCG1080	Iba_chr01bCG1650		
+apg1357	Iba_chr01aCG4590			
+apg1358	Iba_chr01aCG15180			
+apg1359	Iba_chr01aCG18690	Iba_chr01bCG19740		
+apg1360	Iba_chr01aCG20560			
+apg1361	Iba_chr01aCG16030			
+apg1362	Iba_chr01aCG17360			
+apg1363	Iba_chr01aCG21410			
+apg1364	Iba_chr01bCG17380	Iba_chr01aCG18210		
+apg1365	Iba_chr01aCG19540	Iba_chr01bCG18780		
+apg1366	Iba_chr01aCG10760			
+apg1367	Iba_chr01aCG12940	Iba_chr01bCG12740		
+apg1368	Iba_chr01aCG4120			
+apg1369	Iba_chr01aCG7630			
+apg1370	Iba_chr01aCG9810			
+apg1371	Iba_chr01bCG1610	Iba_chr01aCG1090		
+apg1372	Iba_chr01aCG6780			
+apg1373	Iba_chr01aCG5450			
+apg1374	Iba_chr01aCG3270			
+apg1375	Iba_chr01aCG11610			
+apg1376	Iba_chr01aCG16060			
+apg1377	Iba_chr01aCG18240			
+apg1378	Iba_chr01aCG19570			
+apg1379	Iba_chr01aCG20530			
+apg1380	Iba_chr01aCG17390			
+apg1381	Iba_chr01aCG10750			
+apg1382	Iba_chr01aCG9820			
+apg1383	Iba_chr01aCG7640	Iba_chr01bCG7790		
+apg1384	Iba_chr01aCG6790			
+apg1385	Iba_chr01aCG5460			
+apg1386	Iba_chr01aCG8970	Iba_chr01bCG9050		
+apg1387	Iba_chr01aCG4130	Iba_chr01bCG4930		
+apg1388	Iba_chr01aCG12930	Iba_chr01bCG12750		
+apg1389	Iba_chr01aCG3280	Iba_chr01bCG3400		
+apg1390	Iba_chr01aCG11600			
+apg1391	Iba_chr01aCG19560			
+apg1392	Iba_chr01aCG16050			
+apg1393	Iba_chr01aCG17380			
+apg1394	Iba_chr01aCG18230			
+apg1395	Iba_chr01aCG20540			
+apg1396	Iba_chr01aCG11630	Iba_chr01bCG11740		
+apg1397	Iba_chr01aCG10300			
+apg1398	Iba_chr01aCG12960	Iba_chr01bCG12730		
+apg1399	Iba_chr01aCG6320			
+apg1400	Iba_chr01aCG10780			
+apg1401	Iba_chr01aCG8500	Iba_chr01bCG8570		
+apg1402	Iba_chr01aCG9830	Iba_chr01bCG10120		
+apg1403	Iba_chr01aCG3290			
+apg1404	Iba_chr01aCG5470			
+apg1405	Iba_chr01aCG8980	Iba_chr01bCG9020	Iba_chr01bCG9250	
+apg1406	Iba_chr01aCG4140			
+apg1407	Iba_chr01aCG13810			
+apg1408	Iba_chr01aCG21440			
+apg1409	Iba_chr01aCG18260	Iba_chr01bCG17410		
+apg1410	Iba_chr01aCG19110	Iba_chr01bCG18070		
+apg1411	Iba_chr01aCG20590			
+apg1412	Iba_chr01aCG20110	Iba_chr01bCG19350		
+apg1413	Iba_chr01aCG19590			
+apg1414	Iba_chr01aCG16080			
+apg1415	Iba_chr01aCG12950			
+apg1416	Iba_chr01aCG10770	Iba_chr01bCG10980		
+apg1417	Iba_chr01aCG11620			
+apg1418	Iba_chr01bCG5820	Iba_chr01aCG5000		
+apg1419	Iba_chr01bCG8580	Iba_chr01aCG8510		
+apg1420	Iba_chr01aCG9840			
+apg1421	Iba_chr01aCG5480			
+apg1422	Iba_chr01aCG6330			
+apg1423	Iba_chr01aCG4150			
+apg1424	Iba_chr01aCG13800			
+apg1425	Iba_chr01aCG18250	Iba_chr01bCG17390		
+apg1426	Iba_chr01aCG19580	Iba_chr01bCG18820		
+apg1427	Iba_chr01aCG19100	Iba_chr01bCG18060		
+apg1428	Iba_chr01aCG20120	Iba_chr01bCG19360		
+apg1429	Iba_chr01aCG21450			
+apg1430	Iba_chr01aCG16070			
+apg1431	Iba_chr01aCG12500	Iba_chr01bCG12600		
+apg1432	Iba_chr01aCG13830	Iba_chr01bCG13970		
+apg1433	Iba_chr01aCG11650			
+apg1434	Iba_chr01aCG8520			
+apg1435	Iba_chr01aCG12980	Iba_chr01bCG12710		
+apg1436	Iba_chr01aCG9850	Iba_chr01bCG10130		
+apg1437	Iba_chr01aCG6340			
+apg1438	Iba_chr01aCG5010			
+apg1439	Iba_chr01aCG4160	Iba_chr01aCG17290		
+apg1440	Iba_chr01aCG5490	Iba_chr01bCG6570		
+apg1441	Iba_chr01aCG19130	Iba_chr01bCG18090		
+apg1442	Iba_chr01aCG21420			
+apg1443	Iba_chr01aCG20570			
+apg1444	Iba_chr01aCG18280	Iba_chr01bCG17430		
+apg1445	Iba_chr01aCG13820	Iba_chr01bCG13960		
+apg1446	Iba_chr01aCG12970	Iba_chr01bCG12720		
+apg1447	Iba_chr01aCG10310			
+apg1448	Iba_chr01aCG11640			
+apg1449	Iba_chr01aCG7200			
+apg1450	Iba_chr01aCG10790			
+apg1451	Iba_chr01aCG4170	Iba_chr01bCG4950		
+apg1452	Iba_chr01aCG9860			
+apg1453	Iba_chr01aCG6350			
+apg1454	Iba_chr01aCG7680			
+apg1455	Iba_chr01aCG5020			
+apg1456	Iba_chr01aCG8530			
+apg1457	Iba_chr01aCG21430			
+apg1458	Iba_chr01aCG19120	Iba_chr01bCG18080		
+apg1459	Iba_chr01aCG20100	Iba_chr01bCG19330		
+apg1460	Iba_chr01aCG20580			
+apg1461	Iba_chr01aCG16090			
+apg1462	Iba_chr01aCG18270	Iba_chr01bCG17420		
+apg1463	Iba_chr01aCG6360			
+apg1464	Iba_chr01aCG4180			
+apg1465	Iba_chr01aCG5030	Iba_chr01bCG5810		
+apg1466	Iba_chr01aCG18620			
+apg1467	Iba_chr01aCG7210			
+apg1468	Iba_chr01aCG8540	Iba_chr01bCG8600		
+apg1469	Iba_chr01bCG10160	Iba_chr01aCG9870		
+apg1470	Iba_chr01bCG7870	Iba_chr01aCG7690		
+apg1471	Iba_chr01aCG17770	Iba_chr01bCG16950		
+apg1472	Iba_chr01aCG19950			
+apg1473	Iba_chr01aCG16440			
+apg1474	Iba_chr01aCG15110			
+apg1475	Iba_chr01aCG21800			
+apg1476	Iba_chr01aCG14260	Iba_chr01bCG14380		
+apg1477	Iba_chr01aCG12080			
+apg1478	Iba_chr01aCG20950			
+apg1479	Iba_chr01aCG1900			
+apg1480	Iba_chr01aCG9400			
+apg1481	Iba_chr01aCG5040	Iba_chr01bCG5790		
+apg1482	Iba_chr01aCG8550	Iba_chr01bCG8610		
+apg1483	Iba_chr01aCG15100	Iba_chr01bCG15650		
+apg1484	Iba_chr01aCG18610			
+apg1485	Iba_chr01aCG4190			
+apg1486	Iba_chr01aCG9880			
+apg1487	Iba_chr01aCG19940	Iba_chr01bCG19180		
+apg1488	Iba_chr01aCG7220			
+apg1489	Iba_chr01aCG15580	Iba_chr01bCG16250		
+apg1490	Iba_chr01aCG16430			
+apg1491	Iba_chr01aCG17760			
+apg1492	Iba_chr01aCG14250			
+apg1493	Iba_chr01aCG20960			
+apg1494	Iba_chr01aCG1910			
+apg1495	Iba_chr01aCG21810			
+apg1496	Iba_chr01aCG7230			
+apg1497	Iba_chr01aCG8560	Iba_chr01bCG8620		
+apg1498	Iba_chr01aCG9410			
+apg1499	Iba_chr01aCG9890	Iba_chr01bCG10170		
+apg1500	Iba_chr01aCG6380			
+apg1501	Iba_chr01aCG5050			
+apg1502	Iba_chr01aCG17790			
+apg1503	Iba_chr01aCG16460			
+apg1504	Iba_chr01aCG15130	Iba_chr01bCG15670		
+apg1505	Iba_chr01aCG17310			
+apg1506	Iba_chr01aCG18640			
+apg1507	Iba_chr01aCG19970	Iba_chr01bCG19190		
+apg1508	Iba_chr01aCG1920	Iba_chr01aCG1930	Iba_chr01aCG1940	
+apg1509	Iba_chr01bCG14400	Iba_chr01aCG14280		
+apg1510	Iba_chr01aCG20930			
+apg1511	Iba_chr01aCG9420			
+apg1512	Iba_chr01aCG7240			
+apg1513	Iba_chr01aCG17300			
+apg1514	Iba_chr01aCG5060			
+apg1515	Iba_chr01aCG8570			
+apg1516	Iba_chr01aCG19960			
+apg1517	Iba_chr01aCG16450			
+apg1518	Iba_chr01aCG17780			
+apg1519	Iba_chr01aCG15120	Iba_chr01bCG15660		
+apg1520	Iba_chr01aCG18630			
+apg1521	Iba_chr01aCG0600	Iba_chr01bCG0620		
+apg1522	Iba_chr01aCG14270			
+apg1523	Iba_chr01aCG20940			
+apg1524	Iba_chr01aCG12090			
+apg1525	Iba_chr01aCG8100			
+apg1526	Iba_chr01bCG9680	Iba_chr01aCG9430		
+apg1527	Iba_chr01aCG5070	Iba_chr01bCG5770		
+apg1528	Iba_chr01aCG7250			
+apg1529	Iba_chr01aCG10700			
+apg1530	Iba_chr01aCG8580	Iba_chr01bCG8640		
+apg1531	Iba_chr01aCG19990			
+apg1532	Iba_chr01aCG20990			
+apg1533	Iba_chr01aCG16480			
+apg1534	Iba_chr01aCG15150			
+apg1535	Iba_chr01aCG17330			
+apg1536	Iba_chr01aCG18660			
+apg1537	Iba_chr01aCG19510	Iba_chr01bCG18740		
+apg1538	Iba_chr01aCG16000			
+apg1539	Iba_chr01aCG0610	Iba_chr01bCG0610		
+apg1540	Iba_chr01aCG20510			
+apg1541	Iba_chr01aCG1960			
+apg1542	Iba_chr01aCG8110			
+apg1543	Iba_chr01aCG9440	Iba_chr01bCG9700	Iba_chr01bCG9690	Iba_chr01aCG9460
+apg1544	Iba_chr01bCG18730	Iba_chr01aCG19500		
+apg1545	Iba_chr01aCG5080			
+apg1546	Iba_chr01aCG8590			
+apg1547	Iba_chr01aCG7260	Iba_chr01bCG7490		
+apg1548	Iba_chr01aCG16470			
+apg1549	Iba_chr01aCG15140			
+apg1550	Iba_chr01aCG18650			
+apg1551	Iba_chr01aCG19980	Iba_chr01bCG19200		
+apg1552	Iba_chr01aCG17320			
+apg1553	Iba_chr01aCG2800			
+apg1554	Iba_chr01aCG1950	Iba_chr01bCG2460		
+apg1555	Iba_chr01aCG0620			
+apg1556	Iba_chr01aCG20520			
+apg1557	Iba_chr01aCG14290	Iba_chr01bCG14410		
+apg1558	Iba_chr01aCG1970			
+apg1559	Iba_chr01aCG0640			
+apg1560	Iba_chr01aCG8120			
+apg1561	Iba_chr01aCG7270	Iba_chr01bCG7500		
+apg1562	Iba_chr01aCG10720	Iba_chr01bCG10920		
+apg1563	Iba_chr01bCG9710	Iba_chr01aCG9450		
+apg1564	Iba_chr01aCG12900			
+apg1565	Iba_chr01aCG15170	Iba_chr01bCG15700		
+apg1566	Iba_chr01aCG17350			
+apg1567	Iba_chr01aCG5090			
+apg1568	Iba_chr01aCG18680	Iba_chr01bCG19730		
+apg1569	Iba_chr01aCG20970			
+apg1570	Iba_chr01aCG16020			
+apg1571	Iba_chr01bCG17370	Iba_chr01aCG18200		
+apg1572	Iba_chr01aCG19530	Iba_chr01bCG18770		
+apg1573	Iba_chr01aCG2810			
+apg1574	Iba_chr01aCG0630	Iba_chr01bCG0590		
+apg1575	Iba_chr01aCG21820			
+apg1576	Iba_chr01aCG0650	Iba_chr01bCG0570		
+apg1577	Iba_chr01aCG1980			
+apg1578	Iba_chr01aCG7280			
+apg1579	Iba_chr01aCG8130	Iba_chr01bCG8180		
+apg1580	Iba_chr01aCG10710	Iba_chr01bCG10910		
+apg1581	Iba_chr01aCG16490			
+apg1582	Iba_chr01aCG15160			
+apg1583	Iba_chr01aCG18670	Iba_chr01bCG19710		
+apg1584	Iba_chr01aCG20980			
+apg1585	Iba_chr01aCG19520	Iba_chr01bCG18760		
+apg1586	Iba_chr01aCG16010			
+apg1587	Iba_chr01aCG17340			
+apg1588	Iba_chr01aCG2820			
+apg1589	Iba_chr01aCG21830			
+apg1590	Iba_chr01aCG20500			
+apg1591	Iba_chr01aCG0540	Iba_chr01bCG0670		
+apg1592	Iba_chr01aCG13210	Iba_chr01bCG13060		
+apg1593	Iba_chr01aCG11030			
+apg1594	Iba_chr01aCG14540			
+apg1595	Iba_chr01bCG2400	Iba_chr01aCG1870		
+apg1596	Iba_chr01aCG15870	Iba_chr01bCG16500		
+apg1597	Iba_chr01aCG16720			
+apg1598	Iba_chr01aCG9350	Iba_chr01bCG9600		
+apg1599	Iba_chr01aCG18900			
+apg1600	Iba_chr01aCG7170			
+apg1601	Iba_chr01aCG8020			
+apg1602	Iba_chr01aCG10180			
+apg1603	Iba_chr01aCG12360	Iba_chr01bCG12460		
+apg1604	Iba_chr01aCG13690			
+apg1605	Iba_chr01aCG2710			
+apg1606	Iba_chr01aCG2730			
+apg1607	Iba_chr01aCG13200			
+apg1608	Iba_chr01aCG14530	Iba_chr01aCG14510		
+apg1609	Iba_chr01aCG1880			
+apg1610	Iba_chr01aCG12350	Iba_chr01bCG12440		
+apg1611	Iba_chr01aCG0550	Iba_chr01bCG0660		
+apg1612	Iba_chr01aCG11020	Iba_chr01bCG11230		
+apg1613	Iba_chr01aCG15860			
+apg1614	Iba_chr01aCG16710			
+apg1615	Iba_chr01aCG8030	Iba_chr01bCG8020		
+apg1616	Iba_chr01aCG9360	Iba_chr01bCG9620		
+apg1617	Iba_chr01aCG7180	Iba_chr01bCG7440		
+apg1618	Iba_chr01aCG13680			
+apg1619	Iba_chr01aCG2720			
+apg1620	Iba_chr01aCG10170	Iba_chr01bCG10400		
+apg1621	Iba_chr01aCG4900			
+apg1622	Iba_chr01aCG1890			
+apg1623	Iba_chr01aCG1410			
+apg1624	Iba_chr01aCG2740			
+apg1625	Iba_chr01bCG0650	Iba_chr01aCG0560		
+apg1626	Iba_chr01aCG13230	Iba_chr01bCG13090		
+apg1627	Iba_chr01aCG16740			
+apg1628	Iba_chr01aCG15410	Iba_chr01bCG16110		
+apg1629	Iba_chr01aCG18920			
+apg1630	Iba_chr01aCG8040			
+apg1631	Iba_chr01aCG9370	Iba_chr01bCG9630		
+apg1632	Iba_chr01aCG7190	Iba_chr01bCG7450		
+apg1633	Iba_chr01aCG15890			
+apg1634	Iba_chr01aCG11050			
+apg1635	Iba_chr01aCG14560			
+apg1636	Iba_chr01aCG1400	Iba_chr01bCG1280		
+apg1637	Iba_chr01aCG12380	Iba_chr01bCG12470		
+apg1638	Iba_chr01aCG4910			
+apg1639	Iba_chr01aCG0570	Iba_chr01bCG0640		
+apg1640	Iba_chr01aCG4930			
+apg1641	Iba_chr01aCG1420			
+apg1642	Iba_chr01aCG2750			
+apg1643	Iba_chr01aCG13220	Iba_chr01bCG13080		
+apg1644	Iba_chr01aCG14550			
+apg1645	Iba_chr01aCG16730			
+apg1646	Iba_chr01aCG15400	Iba_chr01bCG15960	Iba_chr01bCG16100	
+apg1647	Iba_chr01aCG8050			
+apg1648	Iba_chr01aCG18910			
+apg1649	Iba_chr01aCG9380	Iba_chr01bCG9640		
+apg1650	Iba_chr01aCG15880			
+apg1651	Iba_chr01aCG12370			
+apg1652	Iba_chr01aCG10190			
+apg1653	Iba_chr01aCG11040			
+apg1654	Iba_chr01aCG4920	Iba_chr01bCG5900		
+apg1655	Iba_chr01aCG0580			
+apg1656	Iba_chr01aCG4940	Iba_chr01bCG5880		
+apg1657	Iba_chr01aCG0100	Iba_chr01bCG1040		
+apg1658	Iba_chr01aCG3610			
+apg1659	Iba_chr01aCG14100			
+apg1660	Iba_chr01aCG1430			
+apg1661	Iba_chr01aCG2760			
+apg1662	Iba_chr01aCG15430	Iba_chr01bCG15980	Iba_chr01bCG16130	
+apg1663	Iba_chr01aCG18940	Iba_chr01bCG17940		
+apg1664	Iba_chr01aCG17610			
+apg1665	Iba_chr01aCG9390			
+apg1666	Iba_chr01aCG8060	Iba_chr01bCG8040		
+apg1667	Iba_chr01aCG16760			
+apg1668	Iba_chr01aCG13250	Iba_chr01bCG13100		
+apg1669	Iba_chr01aCG11070	Iba_chr01bCG11260		
+apg1670	Iba_chr01aCG14580	Iba_chr01bCG15300		
+apg1671	Iba_chr01aCG3600	Iba_chr01bCG3840		
+apg1672	Iba_chr01aCG2780	Iba_chr01aCG2770		
+apg1673	Iba_chr01bCG5870	Iba_chr01aCG4950		
+apg1674	Iba_chr01bCG0630	Iba_chr01aCG0590		
+apg1675	Iba_chr01aCG3620			
+apg1676	Iba_chr01aCG1440			
+apg1677	Iba_chr01aCG0110	Iba_chr01bCG1000		
+apg1678	Iba_chr01aCG16750			
+apg1679	Iba_chr01aCG15420	Iba_chr01bCG15970		
+apg1680	Iba_chr01aCG17600			
+apg1681	Iba_chr01aCG18930			
+apg1682	Iba_chr01aCG8070			
+apg1683	Iba_chr01aCG13240			
+apg1684	Iba_chr01aCG14570			
+apg1685	Iba_chr01aCG20800			
+apg1686	Iba_chr01aCG12390	Iba_chr01bCG12480		
+apg1687	Iba_chr01aCG11060	Iba_chr01bCG11250		
+apg1688	Iba_chr01aCG4960			
+apg1689	Iba_chr01aCG1450			
+apg1690	Iba_chr01aCG2300	Iba_chr01bCG2790		
+apg1691	Iba_chr01aCG0120	Iba_chr01bCG0990		
+apg1692	Iba_chr01aCG3630			
+apg1693	Iba_chr01aCG19810			
+apg1694	Iba_chr01aCG16300			
+apg1695	Iba_chr01aCG17630	Iba_chr01bCG16820		
+apg1696	Iba_chr01aCG8080	Iba_chr01bCG8050		
+apg1697	Iba_chr01aCG16780			
+apg1698	Iba_chr01aCG15450	Iba_chr01bCG16140		
+apg1699	Iba_chr01aCG18960	Iba_chr01bCG17960		
+apg1700	Iba_chr01aCG14120	Iba_chr01bCG14260		
+apg1701	Iba_chr01aCG13270	Iba_chr01bCG13140		
+apg1702	Iba_chr01aCG11090	Iba_chr01bCG11280		
+apg1703	Iba_chr01aCG1460	Iba_chr01bCG0030		
+apg1704	Iba_chr01aCG0130	Iba_chr01bCG0980		
+apg1705	Iba_chr01aCG2790			
+apg1706	Iba_chr01aCG5820			
+apg1707	Iba_chr01aCG2310	Iba_chr01bCG2820		
+apg1708	Iba_chr01aCG3640			
+apg1709	Iba_chr01aCG4970			
+apg1710	Iba_chr01aCG14110			
+apg1711	Iba_chr01aCG17620	Iba_chr01bCG16810		
+apg1712	Iba_chr01aCG18950	Iba_chr01bCG17950		
+apg1713	Iba_chr01aCG19800	Iba_chr01bCG19060		
+apg1714	Iba_chr01aCG8090			
+apg1715	Iba_chr01aCG16770			
+apg1716	Iba_chr01aCG15440			
+apg1717	Iba_chr01aCG13260	Iba_chr01bCG13120		
+apg1718	Iba_chr01aCG14590			
+apg1719	Iba_chr01aCG11080	Iba_chr01bCG11270		
+apg1720	Iba_chr01aCG0140			
+apg1721	Iba_chr01aCG3650			
+apg1722	Iba_chr01aCG10100	Iba_chr01bCG10350		
+apg1723	Iba_chr01aCG5830			
+apg1724	Iba_chr01aCG13610	Iba_chr01bCG13730		
+apg1725	Iba_chr01aCG11430			
+apg1726	Iba_chr01aCG14940	Iba_chr01bCG15530		
+apg1727	Iba_chr01aCG1470	Iba_chr01bCG0040		
+apg1728	Iba_chr01aCG10580	Iba_chr01bCG10770		
+apg1729	Iba_chr01aCG4500	Iba_chr01bCG6470		
+apg1730	Iba_chr01aCG12760			
+apg1731	Iba_chr01aCG4980	Iba_chr01bCG5850		
+apg1732	Iba_chr01aCG2320			
+apg1733	Iba_chr01aCG20390			
+apg1734	Iba_chr01aCG21240			
+apg1735	Iba_chr01aCG18060	Iba_chr01bCG17230		
+apg1736	Iba_chr01aCG19390	Iba_chr01bCG18630		
+apg1737	Iba_chr01aCG2330	Iba_chr01bCG2840		
+apg1738	Iba_chr01aCG5840			
+apg1739	Iba_chr01aCG13600	Iba_chr01bCG13720		
+apg1740	Iba_chr01aCG3660			
+apg1741	Iba_chr01aCG14930			
+apg1742	Iba_chr01aCG1480			
+apg1743	Iba_chr01aCG12750	Iba_chr01bCG12890		
+apg1744	Iba_chr01aCG0150			
+apg1745	Iba_chr01aCG11420	Iba_chr01bCG11550		
+apg1746	Iba_chr01aCG4990	Iba_chr01bCG5830		
+apg1747	Iba_chr01aCG1000	Iba_chr01bCG1740		
+apg1748	Iba_chr01aCG4510			
+apg1749	Iba_chr01aCG10570	Iba_chr01bCG10760		
+apg1750	Iba_chr01aCG21250			
+apg1751	Iba_chr01aCG19380	Iba_chr01bCG18620		
+apg1752	Iba_chr01aCG18050	Iba_chr01bCG17220		
+apg1753	Iba_chr01bCG1710	Iba_chr01aCG1010		
+apg1754	Iba_chr01aCG2340			
+apg1755	Iba_chr01aCG0160	Iba_chr01bCG0970		
+apg1756	Iba_chr01aCG3670	Iba_chr01bCG4600		
+apg1757	Iba_chr01aCG6700	Iba_chr01bCG7100		
+apg1758	Iba_chr01aCG12300			
+apg1759	Iba_chr01aCG13630	Iba_chr01bCG13760		
+apg1760	Iba_chr01aCG11450	Iba_chr01bCG11580		
+apg1761	Iba_chr01aCG14960			
+apg1762	Iba_chr01aCG10120			
+apg1763	Iba_chr01aCG4520			
+apg1764	Iba_chr01aCG5850			
+apg1765	Iba_chr01aCG12780			
+apg1766	Iba_chr01aCG1490			
+apg1767	Iba_chr01aCG15810			
+apg1768	Iba_chr01aCG21220			
+apg1769	Iba_chr01aCG20370			
+apg1770	Iba_chr01aCG18080	Iba_chr01bCG17260		
+apg1771	Iba_chr01aCG1020	Iba_chr01bCG1700		
+apg1772	Iba_chr01aCG4530			
+apg1773	Iba_chr01aCG6710			
+apg1774	Iba_chr01aCG10110			
+apg1775	Iba_chr01aCG2350	Iba_chr01aCG2360		
+apg1776	Iba_chr01aCG13620	Iba_chr01bCG13740		
+apg1777	Iba_chr01aCG3680			
+apg1778	Iba_chr01aCG14950	Iba_chr01bCG15550		
+apg1779	Iba_chr01aCG12770			
+apg1780	Iba_chr01aCG10590	Iba_chr01bCG10780		
+apg1781	Iba_chr01aCG11440	Iba_chr01bCG11570		
+apg1782	Iba_chr01aCG3200			
+apg1783	Iba_chr01bCG0950	Iba_chr01aCG0170		
+apg1784	Iba_chr01aCG15800	Iba_chr01bCG16430		
+apg1785	Iba_chr01aCG20380			
+apg1786	Iba_chr01aCG21230			
+apg1787	Iba_chr01aCG18070	Iba_chr01bCG17250		
+apg1788	Iba_chr01aCG3210			
+apg1789	Iba_chr01aCG6720			
+apg1790	Iba_chr01aCG4540			
+apg1791	Iba_chr01aCG14500			
+apg1792	Iba_chr01aCG1030	Iba_chr01bCG1690		
+apg1793	Iba_chr01aCG8900			
+apg1794	Iba_chr01aCG10140			
+apg1795	Iba_chr01aCG12320	Iba_chr01bCG12420		
+apg1796	Iba_chr01aCG13650	Iba_chr01bCG13780		
+apg1797	Iba_chr01aCG11470			
+apg1798	Iba_chr01aCG14980	Iba_chr01bCG15570		
+apg1799	Iba_chr01aCG21280			
+apg1800	Iba_chr01aCG0180			
+apg1801	Iba_chr01aCG3690	Iba_chr01bCG4610	Iba_chr01bCG3950	
+apg1802	Iba_chr01aCG15830	Iba_chr01bCG16450		
+apg1803	Iba_chr01aCG5400			
+apg1804	Iba_chr01aCG8910			
+apg1805	Iba_chr01aCG3220	Iba_chr01bCG3350		
+apg1806	Iba_chr01aCG1040			
+apg1807	Iba_chr01aCG4550			
+apg1808	Iba_chr01aCG12310			
+apg1809	Iba_chr01aCG13640			
+apg1810	Iba_chr01aCG14970	Iba_chr01bCG15560		
+apg1811	Iba_chr01bCG12870	Iba_chr01aCG12790		
+apg1812	Iba_chr01aCG6730			
+apg1813	Iba_chr01aCG10130	Iba_chr01bCG10370		
+apg1814	Iba_chr01aCG11460			
+apg1815	Iba_chr01aCG21290			
+apg1816	Iba_chr01aCG2370			
+apg1817	Iba_chr01aCG15820	Iba_chr01bCG16440		
+apg1818	Iba_chr01aCG0190	Iba_chr01bCG0930		
+apg1819	Iba_chr01aCG18090	Iba_chr01bCG17270		
+apg1820	Iba_chr01aCG8920	Iba_chr01bCG9110	Iba_chr01bCG9160	Iba_chr01bCG9100
+apg1821	Iba_chr01aCG3230			
+apg1822	Iba_chr01aCG11010			
+apg1823	Iba_chr01aCG14520			
+apg1824	Iba_chr01aCG6740	Iba_chr01bCG7110		
+apg1825	Iba_chr01bCG5430	Iba_chr01aCG5410		
+apg1826	Iba_chr01aCG12340			
+apg1827	Iba_chr01aCG13670	Iba_chr01bCG13800		
+apg1828	Iba_chr01aCG15850	Iba_chr01bCG16480		
+apg1829	Iba_chr01aCG5890			
+apg1830	Iba_chr01aCG1050	Iba_chr01bCG1680		
+apg1831	Iba_chr01aCG2380			
+apg1832	Iba_chr01aCG16700			
+apg1833	Iba_chr01aCG21260			
+apg1834	Iba_chr01aCG11490	Iba_chr01bCG11640		
+apg1835	Iba_chr01aCG10160	Iba_chr01bCG10390		
+apg1836	Iba_chr01aCG7600	Iba_chr01bCG7690		
+apg1837	Iba_chr01aCG3240	Iba_chr01bCG3380		
+apg1838	Iba_chr01aCG12330	Iba_chr01bCG12430		
+apg1839	Iba_chr01aCG6750			
+apg1840	Iba_chr01bCG10380	Iba_chr01aCG10150		
+apg1841	Iba_chr01aCG11000	Iba_chr01bCG11210		
+apg1842	Iba_chr01aCG5420	Iba_chr01bCG6510		
+apg1843	Iba_chr01aCG8930	Iba_chr01bCG9170		
+apg1844	Iba_chr01bCG13790	Iba_chr01aCG13660		
+apg1845	Iba_chr01aCG14990	Iba_chr01bCG15580		
+apg1846	Iba_chr01aCG15840	Iba_chr01bCG16470		
+apg1847	Iba_chr01aCG21270			
+apg1848	Iba_chr01aCG1060	Iba_chr01bCG1670		
+apg1849	Iba_chr01aCG4570			
+apg1850	Iba_chr01aCG2390			
+apg1851	Iba_chr01aCG11480			
+apg1852	Iba_chr01aCG11950	Iba_chr01bCG12030		
+apg1853	Iba_chr01aCG3130			
+apg1854	Iba_chr01aCG6640	Iba_chr01aCG6650		
+apg1855	Iba_chr01aCG7970			
+apg1856	Iba_chr01aCG5310			
+apg1857	Iba_chr01aCG8820	Iba_chr01bCG8910		
+apg1858	Iba_chr01aCG5790			
+apg1859	Iba_chr01aCG4460			
+apg1860	Iba_chr01aCG12800			
+apg1861	Iba_chr01aCG10620			
+apg1862	Iba_chr01aCG2280			
+apg1863	Iba_chr01bCG15620	Iba_chr01aCG15070		
+apg1864	Iba_chr01aCG18580			
+apg1865	Iba_chr01aCG21760			
+apg1866	Iba_chr01aCG20430	Iba_chr01bCG19660		
+apg1867	Iba_chr01aCG17250			
+apg1868	Iba_chr01aCG18100			
+apg1869	Iba_chr01aCG19430			
+apg1870	Iba_chr01aCG5320			
+apg1871	Iba_chr01aCG7500			
+apg1872	Iba_chr01aCG8830			
+apg1873	Iba_chr01aCG7980			
+apg1874	Iba_chr01aCG3140			
+apg1875	Iba_chr01aCG10610	Iba_chr01bCG10810		
+apg1876	Iba_chr01aCG4470	Iba_chr01bCG5220		
+apg1877	Iba_chr01aCG11940	Iba_chr01bCG12020		
+apg1878	Iba_chr01aCG2290			
+apg1879	Iba_chr01aCG16390			
+apg1880	Iba_chr01aCG21770			
+apg1881	Iba_chr01bCG15610	Iba_chr01aCG15060		
+apg1882	Iba_chr01aCG20440	Iba_chr01bCG19670		
+apg1883	Iba_chr01aCG17240			
+apg1884	Iba_chr01aCG18570			
+apg1885	Iba_chr01aCG19420	Iba_chr01bCG18660		
+apg1886	Iba_chr01aCG4000			
+apg1887	Iba_chr01aCG10640	Iba_chr01bCG10820		
+apg1888	Iba_chr01aCG11970			
+apg1889	Iba_chr01aCG5330			
+apg1890	Iba_chr01aCG8840			
+apg1891	Iba_chr01aCG7510			
+apg1892	Iba_chr01aCG6660			
+apg1893	Iba_chr01aCG7990			
+apg1894	Iba_chr01aCG3150	Iba_chr01bCG3280		
+apg1895	Iba_chr01aCG4480	Iba_chr01bCG6450		
+apg1896	Iba_chr01bCG12850	Iba_chr01aCG12820		
+apg1897	Iba_chr01aCG19450			
+apg1898	Iba_chr01aCG20890			
+apg1899	Iba_chr01aCG17270			
+apg1900	Iba_chr01bCG17300	Iba_chr01aCG18120		
+apg1901	Iba_chr01aCG21740			
+apg1902	Iba_chr01aCG20410	Iba_chr01bCG19640		
+apg1903	Iba_chr01aCG15090	Iba_chr01bCG15640		
+apg1904	Iba_chr01aCG11960	Iba_chr01bCG12040		
+apg1905	Iba_chr01aCG10630			
+apg1906	Iba_chr01aCG4010	Iba_chr01bCG6100		
+apg1907	Iba_chr01aCG7520			
+apg1908	Iba_chr01aCG8850	Iba_chr01bCG8940		
+apg1909	Iba_chr01aCG9700	Iba_chr01bCG9970		
+apg1910	Iba_chr01aCG6670	Iba_chr01bCG7060		
+apg1911	Iba_chr01aCG5340			
+apg1912	Iba_chr01aCG3160			
+apg1913	Iba_chr01aCG4490			
+apg1914	Iba_chr01bCG12860	Iba_chr01aCG12810		
+apg1915	Iba_chr01aCG17260			
+apg1916	Iba_chr01aCG18590			
+apg1917	Iba_chr01aCG19440			
+apg1918	Iba_chr01aCG21750			
+apg1919	Iba_chr01aCG20420	Iba_chr01bCG19650		
+apg1920	Iba_chr01aCG18110			
+apg1921	Iba_chr01aCG15080	Iba_chr01bCG15630		
+apg1922	Iba_chr01aCG12840	Iba_chr01bCG12830		
+apg1923	Iba_chr01aCG10660	Iba_chr01bCG10860		
+apg1924	Iba_chr01aCG11510			
+apg1925	Iba_chr01aCG9710	Iba_chr01bCG9980		
+apg1926	Iba_chr01aCG6200			
+apg1927	Iba_chr01aCG7530	Iba_chr01bCG7640		
+apg1928	Iba_chr01aCG11990	Iba_chr01bCG12060		
+apg1929	Iba_chr01aCG6680	Iba_chr01bCG7080		
+apg1930	Iba_chr01aCG5350			
+apg1931	Iba_chr01aCG8860			
+apg1932	Iba_chr01aCG4020	Iba_chr01bCG6170		
+apg1933	Iba_chr01aCG3170			
+apg1934	Iba_chr01bCG17310	Iba_chr01aCG18140		
+apg1935	Iba_chr01aCG21320			
+apg1936	Iba_chr01bCG18680	Iba_chr01aCG19470		
+apg1937	Iba_chr01aCG20470			
+apg1938	Iba_chr01aCG10650	Iba_chr01bCG10830		
+apg1939	Iba_chr01aCG12830	Iba_chr01bCG12840		
+apg1940	Iba_chr01aCG11980	Iba_chr01bCG12050		
+apg1941	Iba_chr01aCG9720			
+apg1942	Iba_chr01aCG3180	Iba_chr01bCG3310		
+apg1943	Iba_chr01aCG6690	Iba_chr01bCG7090		
+apg1944	Iba_chr01aCG5360			
+apg1945	Iba_chr01aCG7540			
+apg1946	Iba_chr01aCG8870			
+apg1947	Iba_chr01aCG4030			
+apg1948	Iba_chr01aCG11500	Iba_chr01bCG11650		
+apg1949	Iba_chr01aCG21330			
+apg1950	Iba_chr01aCG18130			
+apg1951	Iba_chr01bCG18670	Iba_chr01aCG19460		
+apg1952	Iba_chr01aCG20480			
+apg1953	Iba_chr01aCG20000	Iba_chr01bCG19230		
+apg1954	Iba_chr01aCG0900			
+apg1955	Iba_chr01aCG17280			
+apg1956	Iba_chr01aCG13710	Iba_chr01bCG13850		
+apg1957	Iba_chr01aCG12860			
+apg1958	Iba_chr01aCG10200			
+apg1959	Iba_chr01aCG11530	Iba_chr01bCG11670		
+apg1960	Iba_chr01aCG8400	Iba_chr01bCG8440		
+apg1961	Iba_chr01aCG9730	Iba_chr01bCG10010		
+apg1962	Iba_chr01aCG10680			
+apg1963	Iba_chr01aCG5370			
+apg1964	Iba_chr01aCG8880			
+apg1965	Iba_chr01aCG3190	Iba_chr01bCG3320		
+apg1966	Iba_chr01aCG6220			
+apg1967	Iba_chr01aCG7550	Iba_chr01bCG7650		
+apg1968	Iba_chr01aCG4040			
+apg1969	Iba_chr01aCG20450			
+apg1970	Iba_chr01aCG19010	Iba_chr01bCG18000		
+apg1971	Iba_chr01aCG21300			
+apg1972	Iba_chr01aCG21780			
+apg1973	Iba_chr01aCG19490	Iba_chr01bCG18720		
+apg1974	Iba_chr01bCG17330	Iba_chr01aCG18160		
+apg1975	Iba_chr01aCG0910			
+apg1976	Iba_chr01aCG11520	Iba_chr01bCG11660		
+apg1977	Iba_chr01aCG12850	Iba_chr01bCG12810		
+apg1978	Iba_chr01aCG8410			
+apg1979	Iba_chr01aCG10670			
+apg1980	Iba_chr01aCG7560			
+apg1981	Iba_chr01aCG8890	Iba_chr01bCG9150		
+apg1982	Iba_chr01aCG9740	Iba_chr01bCG10020		
+apg1983	Iba_chr01aCG6230			
+apg1984	Iba_chr01aCG4050	Iba_chr01bCG4880		
+apg1985	Iba_chr01aCG5380			
+apg1986	Iba_chr01aCG13700	Iba_chr01bCG13840		
+apg1987	Iba_chr01aCG18150	Iba_chr01bCG17320		
+apg1988	Iba_chr01aCG19000	Iba_chr01bCG17990		
+apg1989	Iba_chr01aCG21310			
+apg1990	Iba_chr01aCG21790			
+apg1991	Iba_chr01aCG20460			
+apg1992	Iba_chr01aCG19480	Iba_chr01bCG18700		
+apg1993	Iba_chr01aCG0920	Iba_chr01bCG1830		
+apg1994	Iba_chr01aCG4060			
+apg1995	Iba_chr01aCG9750	Iba_chr01bCG10030		
+apg1996	Iba_chr01aCG18500			
+apg1997	Iba_chr01aCG6240			
+apg1998	Iba_chr01bCG7660	Iba_chr01aCG7570		
+apg1999	Iba_chr01aCG8420	Iba_chr01bCG8470		
+apg2000	Iba_chr01aCG19830	Iba_chr01bCG19090		
+apg2001	Iba_chr01bCG5440	Iba_chr01aCG5390		
+apg2002	Iba_chr01aCG15470	Iba_chr01bCG16020		
+apg2003	Iba_chr01aCG18980			
+apg2004	Iba_chr01aCG16320			
+apg2005	Iba_chr01bCG16840	Iba_chr01aCG17650		
+apg2006	Iba_chr01aCG0930			
+apg2007	Iba_chr01aCG14140	Iba_chr01bCG14280		
+apg2008	Iba_chr01aCG13290			
+apg2009	Iba_chr01aCG20830			
+apg2010	Iba_chr01aCG6250			
+apg2011	Iba_chr01aCG16310			
+apg2012	Iba_chr01aCG4070			
+apg2013	Iba_chr01aCG7100			
+apg2014	Iba_chr01aCG8430	Iba_chr01bCG8480		
+apg2015	Iba_chr01aCG9760	Iba_chr01bCG10040		
+apg2016	Iba_chr01bCG19080	Iba_chr01aCG19820		
+apg2017	Iba_chr01aCG7580	Iba_chr01bCG7670		
+apg2018	Iba_chr01aCG16790			
+apg2019	Iba_chr01aCG15460	Iba_chr01bCG16010		
+apg2020	Iba_chr01aCG17640	Iba_chr01bCG16830		
+apg2021	Iba_chr01aCG18970	Iba_chr01bCG17970		
+apg2022	Iba_chr01aCG0940			
+apg2023	Iba_chr01aCG14130	Iba_chr01bCG14270		
+apg2024	Iba_chr01aCG13280			
+apg2025	Iba_chr01aCG20840			
+apg2026	Iba_chr01aCG8440	Iba_chr01bCG8500		
+apg2027	Iba_chr01aCG4080			
+apg2028	Iba_chr01aCG9770	Iba_chr01bCG10050		
+apg2029	Iba_chr01aCG7110			
+apg2030	Iba_chr01aCG6260			
+apg2031	Iba_chr01aCG7590	Iba_chr01bCG7680		
+apg2032	Iba_chr01aCG15490	Iba_chr01bCG16040		
+apg2033	Iba_chr01aCG19850			
+apg2034	Iba_chr01aCG16340			
+apg2035	Iba_chr01aCG17670	Iba_chr01bCG16860		
+apg2036	Iba_chr01aCG15010	Iba_chr01aCG15020		
+apg2037	Iba_chr01aCG18520	Iba_chr01bCG17590		
+apg2038	Iba_chr01aCG20810			
+apg2039	Iba_chr01aCG0950			
+apg2040	Iba_chr01aCG14160	Iba_chr01bCG14300		
+apg2041	Iba_chr01aCG1800			
+apg2042	Iba_chr01aCG0970	Iba_chr01bCG1770		
+apg2043	Iba_chr01aCG7120			
+apg2044	Iba_chr01aCG8450			
+apg2045	Iba_chr01aCG9300			
+apg2046	Iba_chr01aCG18510			
+apg2047	Iba_chr01aCG4090			
+apg2048	Iba_chr01aCG9780	Iba_chr01bCG10060		
+apg2049	Iba_chr01aCG6270			
+apg2050	Iba_chr01aCG15480	Iba_chr01bCG16150	Iba_chr01bCG16030	
+apg2051	Iba_chr01aCG17660	Iba_chr01bCG16850		
+apg2052	Iba_chr01aCG18990			
+apg2053	Iba_chr01aCG19840			
+apg2054	Iba_chr01aCG16330			
+apg2055	Iba_chr01aCG15000			
+apg2056	Iba_chr01aCG1810	Iba_chr01bCG0350		
+apg2057	Iba_chr01aCG0960	Iba_chr01bCG1780		
+apg2058	Iba_chr01aCG14150	Iba_chr01bCG14290		
+apg2059	Iba_chr01aCG20820			
+apg2060	Iba_chr01aCG0980	Iba_chr01bCG1760		
+apg2061	Iba_chr01aCG9310			
+apg2062	Iba_chr01aCG7130	Iba_chr01bCG7390		
+apg2063	Iba_chr01aCG9790			
+apg2064	Iba_chr01aCG6280			
+apg2065	Iba_chr01aCG11910	Iba_chr01bCG12000		
+apg2066	Iba_chr01aCG8460	Iba_chr01bCG8540		
+apg2067	Iba_chr01aCG20870			
+apg2068	Iba_chr01aCG16360			
+apg2069	Iba_chr01aCG17690	Iba_chr01bCG16880		
+apg2070	Iba_chr01aCG15030	Iba_chr01bCG15600		
+apg2071	Iba_chr01aCG18540	Iba_chr01bCG17610		
+apg2072	Iba_chr01aCG19870			
+apg2073	Iba_chr01aCG17210			
+apg2074	Iba_chr01aCG1820	Iba_chr01bCG0370		
+apg2075	Iba_chr01aCG21720			
+apg2076	Iba_chr01aCG14180			
+apg2077	Iba_chr01aCG0990	Iba_chr01bCG1750		
+apg2078	Iba_chr01aCG11900	Iba_chr01bCG11990		
+apg2079	Iba_chr01aCG9320	Iba_chr01bCG9570		
+apg2080	Iba_chr01aCG6290			
+apg2081	Iba_chr01aCG7140	Iba_chr01bCG7400		
+apg2082	Iba_chr01aCG8470			
+apg2083	Iba_chr01aCG20880			
+apg2084	Iba_chr01aCG17680	Iba_chr01bCG16870		
+apg2085	Iba_chr01aCG16350			
+apg2086	Iba_chr01aCG17200			
+apg2087	Iba_chr01aCG18530	Iba_chr01bCG17600		
+apg2088	Iba_chr01aCG19860	Iba_chr01bCG19110		
+apg2089	Iba_chr01aCG0500	Iba_chr01bCG0710		
+apg2090	Iba_chr01aCG1830	Iba_chr01bCG0380		
+apg2091	Iba_chr01aCG21730			
+apg2092	Iba_chr01aCG14170	Iba_chr01bCG14310		
+apg2093	Iba_chr01aCG20400	Iba_chr01bCG19630		
+apg2094	Iba_chr01aCG1850	Iba_chr01bCG0400		
+apg2095	Iba_chr01aCG8000			
+apg2096	Iba_chr01aCG9330			
+apg2097	Iba_chr01aCG8480			
+apg2098	Iba_chr01aCG7150			
+apg2099	Iba_chr01aCG10600	Iba_chr01bCG10790		
+apg2100	Iba_chr01aCG11930			
+apg2101	Iba_chr01aCG19890	Iba_chr01bCG19140		
+apg2102	Iba_chr01aCG16380			
+apg2103	Iba_chr01aCG15050			
+apg2104	Iba_chr01aCG18560	Iba_chr01bCG17630		
+apg2105	Iba_chr01aCG19410	Iba_chr01bCG18650		
+apg2106	Iba_chr01aCG17230			
+apg2107	Iba_chr01aCG1840	Iba_chr01bCG0390		
+apg2108	Iba_chr01aCG0510			
+apg2109	Iba_chr01aCG20850			
+apg2110	Iba_chr01aCG21700			
+apg2111	Iba_chr01aCG1860	Iba_chr01bCG2390		
+apg2112	Iba_chr01aCG0530			
+apg2113	Iba_chr01aCG8010			
+apg2114	Iba_chr01aCG7160			
+apg2115	Iba_chr01aCG11920	Iba_chr01bCG12010		
+apg2116	Iba_chr01aCG8490			
+apg2117	Iba_chr01aCG9340			
+apg2118	Iba_chr01aCG19880	Iba_chr01bCG19120		
+apg2119	Iba_chr01aCG16370			
+apg2120	Iba_chr01aCG15040			
+apg2121	Iba_chr01aCG20860			
+apg2122	Iba_chr01aCG17220			
+apg2123	Iba_chr01aCG18550	Iba_chr01bCG17620		
+apg2124	Iba_chr01bCG18640	Iba_chr01aCG19400		
+apg2125	Iba_chr01aCG2700			
+apg2126	Iba_chr01bCG0700	Iba_chr01aCG0520		
+apg2127	Iba_chr01aCG21710			
+apg2128	Iba_chr01aCG14190	Iba_chr01bCG14320		
+apg2129	Iba_chr01bCG0690			
+apg2130	Iba_chr01bCG3720			
+apg2131	Iba_chr01bCG2870			
+apg2132	Iba_chr01bCG11480			
+apg2133	Iba_chr01bCG8170			
+apg2134	Iba_chr01bCG10150			
+apg2135	Iba_chr01bCG14990			
+apg2136	Iba_chr01bCG3710	Iba_chr01bCG3690	Iba_chr01bCG4370	Iba_chr01bCG4310
+apg2137	Iba_chr01bCG14510			
+apg2138	Iba_chr01bCG2880			
+apg2139	Iba_chr01bCG9030			
+apg2140	Iba_chr01bCG10140			
+apg2141	Iba_chr01bCG14980			
+apg2142	Iba_chr01bCG15830			
+apg2143	Iba_chr01bCG14500			
+apg2144	Iba_chr01bCG2850			
+apg2145	Iba_chr01bCG8150			
+apg2146	Iba_chr01bCG14970			
+apg2147	Iba_chr01bCG12790			
+apg2148	Iba_chr01bCG13640			
+apg2149	Iba_chr01bCG12310			
+apg2150	Iba_chr01bCG15820			
+apg2151	Iba_chr01bCG0680			
+apg2152	Iba_chr01bCG1530			
+apg2153	Iba_chr01bCG2860			
+apg2154	Iba_chr01bCG8160	Iba_chr01bCG8130		
+apg2155	Iba_chr01bCG14960			
+apg2156	Iba_chr01bCG3700	Iba_chr01bCG4380	Iba_chr01bCG4350	
+apg2157	Iba_chr01bCG11450			
+apg2158	Iba_chr01bCG13630			
+apg2159	Iba_chr01bCG10190			
+apg2160	Iba_chr01bCG15880			
+apg2161	Iba_chr01bCG1980			
+apg2162	Iba_chr01bCG12370			
+apg2163	Iba_chr01bCG7280			
+apg2164	Iba_chr01bCG9460			
+apg2165	Iba_chr01bCG13220			
+apg2166	Iba_chr01bCG16730			
+apg2167	Iba_chr01bCG14550			
+apg2168	Iba_chr01bCG10180			
+apg2169	Iba_chr01bCG1990			
+apg2170	Iba_chr01bCG8140			
+apg2171	Iba_chr01bCG16720			
+apg2172	Iba_chr01bCG2830			
+apg2173	Iba_chr01bCG15870			
+apg2174	Iba_chr01bCG18900			
+apg2175	Iba_chr01bCG1960			
+apg2176	Iba_chr01bCG8110			
+apg2177	Iba_chr01bCG5080			
+apg2178	Iba_chr01bCG8590			
+apg2179	Iba_chr01bCG7260			
+apg2180	Iba_chr01bCG2800			
+apg2181	Iba_chr01bCG11020			
+apg2182	Iba_chr01bCG12350			
+apg2183	Iba_chr01bCG1950			
+apg2184	Iba_chr01bCG16710			
+apg2185	Iba_chr01bCG1970			
+apg2186	Iba_chr01bCG8120			
+apg2187	Iba_chr01bCG9450			
+apg2188	Iba_chr01bCG2810			
+apg2189	Iba_chr01bCG14520			
+apg2190	Iba_chr01bCG16700			
+apg2191	Iba_chr01bCG6830			
+apg2192	Iba_chr01bCG4650			
+apg2193	Iba_chr01bCG2470			
+apg2194	Iba_chr01bCG1140			
+apg2195	Iba_chr01bCG16770			
+apg2196	Iba_chr01bCG5980			
+apg2197	Iba_chr01bCG15440			
+apg2198	Iba_chr01bCG5530	Iba_chr01bCG5500		
+apg2199	Iba_chr01bCG14590			
+apg2200	Iba_chr01bCG0290			
+apg2201	Iba_chr01bCG14110			
+apg2202	Iba_chr01bCG18950			
+apg2203	Iba_chr01bCG2000			
+apg2204	Iba_chr01bCG3330			
+apg2205	Iba_chr01bCG1150			
+apg2206	Iba_chr01bCG16760			
+apg2207	Iba_chr01bCG5510			
+apg2208	Iba_chr01bCG6840			
+apg2209	Iba_chr01bCG13250			
+apg2210	Iba_chr01bCG14580			
+apg2211	Iba_chr01bCG2480			
+apg2212	Iba_chr01bCG14100			
+apg2213	Iba_chr01bCG15430			
+apg2214	Iba_chr01bCG2450			
+apg2215	Iba_chr01bCG1120			
+apg2216	Iba_chr01bCG6810			
+apg2217	Iba_chr01bCG12390			
+apg2218	Iba_chr01bCG3300			
+apg2219	Iba_chr01bCG9080	Iba_chr01bCG9210		
+apg2220	Iba_chr01bCG18930			
+apg2221	Iba_chr01bCG16750			
+apg2222	Iba_chr01bCG15420			
+apg2223	Iba_chr01bCG3790			
+apg2224	Iba_chr01bCG15890			
+apg2225	Iba_chr01bCG5970			
+apg2226	Iba_chr01bCG9090			
+apg2227	Iba_chr01bCG13230			
+apg2228	Iba_chr01bCG16740			
+apg2229	Iba_chr01bCG3760			
+apg2230	Iba_chr01bCG5940			
+apg2231	Iba_chr01bCG15480			
+apg2232	Iba_chr01bCG1580			
+apg2233	Iba_chr01bCG16330			
+apg2234	Iba_chr01bCG15000			
+apg2235	Iba_chr01bCG2430			
+apg2236	Iba_chr01bCG17660			
+apg2237	Iba_chr01bCG9060			
+apg2238	Iba_chr01bCG5950			
+apg2239	Iba_chr01bCG2440			
+apg2240	Iba_chr01bCG3770			
+apg2241	Iba_chr01bCG1590			
+apg2242	Iba_chr01bCG13290			
+apg2243	Iba_chr01bCG14140			
+apg2244	Iba_chr01bCG17650			
+apg2245	Iba_chr01bCG15470			
+apg2246	Iba_chr01bCG9070			
+apg2247	Iba_chr01bCG2890			
+apg2248	Iba_chr01bCG1560			
+apg2249	Iba_chr01bCG5920			
+apg2250	Iba_chr01bCG2410			
+apg2251	Iba_chr01bCG17640			
+apg2252	Iba_chr01bCG0230			
+apg2253	Iba_chr01bCG18970			
+apg2254	Iba_chr01bCG3740	Iba_chr01bCG4450		
+apg2255	Iba_chr01bCG16790			
+apg2256	Iba_chr01bCG15460			
+apg2257	Iba_chr01bCG9040			
+apg2258	Iba_chr01bCG8190			
+apg2259	Iba_chr01bCG5910			
+apg2260	Iba_chr01bCG19820			
+apg2261	Iba_chr01bCG1570			
+apg2262	Iba_chr01bCG5930			
+apg2263	Iba_chr01bCG15450			
+apg2264	Iba_chr01bCG18960			
+apg2265	Iba_chr01bCG2420			
+apg2266	Iba_chr01bCG3750			
+apg2267	Iba_chr01bCG16780			
+apg2268	Iba_chr01bCG14070			
+apg2269	Iba_chr01bCG5100			
+apg2270	Iba_chr01bCG6430			
+apg2271	Iba_chr01bCG7760			
+apg2272	Iba_chr01bCG4250			
+apg2273	Iba_chr01bCG2070			
+apg2274	Iba_chr01bCG10950			
+apg2275	Iba_chr01bCG17570			
+apg2276	Iba_chr01bCG19750			
+apg2277	Iba_chr01bCG5110			
+apg2278	Iba_chr01bCG15390			
+apg2279	Iba_chr01bCG9950			
+apg2280	Iba_chr01bCG18420			
+apg2281	Iba_chr01bCG2080			
+apg2282	Iba_chr01bCG7770			
+apg2283	Iba_chr01bCG6440			
+apg2284	Iba_chr01bCG4260			
+apg2285	Iba_chr01bCG10940			
+apg2286	Iba_chr01bCG18410			
+apg2287	Iba_chr01bCG7740			
+apg2288	Iba_chr01bCG6410			
+apg2289	Iba_chr01bCG9920			
+apg2290	Iba_chr01bCG16230			
+apg2291	Iba_chr01bCG17560			
+apg2292	Iba_chr01bCG6890			
+apg2293	Iba_chr01bCG2050			
+apg2294	Iba_chr01bCG5560			
+apg2295	Iba_chr01bCG10930			
+apg2296	Iba_chr01bCG7750			
+apg2297	Iba_chr01bCG16220			
+apg2298	Iba_chr01bCG6420			
+apg2299	Iba_chr01bCG17550			
+apg2300	Iba_chr01bCG9930			
+apg2301	Iba_chr01bCG4240			
+apg2302	Iba_chr01bCG5570			
+apg2303	Iba_chr01bCG2060			
+apg2304	Iba_chr01bCG18400			
+apg2305	Iba_chr01bCG9900			
+apg2306	Iba_chr01bCG2030			
+apg2307	Iba_chr01bCG5540			
+apg2308	Iba_chr01bCG7720			
+apg2309	Iba_chr01bCG3360			
+apg2310	Iba_chr01bCG1180			
+apg2311	Iba_chr01bCG10510			
+apg2312	Iba_chr01bCG10990			
+apg2313	Iba_chr01bCG11840			
+apg2314	Iba_chr01bCG18460			
+apg2315	Iba_chr01bCG4220			
+apg2316	Iba_chr01bCG7730			
+apg2317	Iba_chr01bCG6400			
+apg2318	Iba_chr01bCG6880			
+apg2319	Iba_chr01bCG2040			
+apg2320	Iba_chr01bCG3370			
+apg2321	Iba_chr01bCG1190			
+apg2322	Iba_chr01bCG11830			
+apg2323	Iba_chr01bCG10500			
+apg2324	Iba_chr01bCG2010			
+apg2325	Iba_chr01bCG5520			
+apg2326	Iba_chr01bCG7700			
+apg2327	Iba_chr01bCG3340			
+apg2328	Iba_chr01bCG19780			
+apg2329	Iba_chr01bCG17120			
+apg2330	Iba_chr01bCG2490			
+apg2331	Iba_chr01bCG1160			
+apg2332	Iba_chr01bCG14090			
+apg2333	Iba_chr01bCG10970			
+apg2334	Iba_chr01bCG4200			
+apg2335	Iba_chr01bCG7710			
+apg2336	Iba_chr01bCG16260			
+apg2337	Iba_chr01bCG2020			
+apg2338	Iba_chr01bCG17110			
+apg2339	Iba_chr01bCG18440			
+apg2340	Iba_chr01bCG19770			
+apg2341	Iba_chr01bCG1170			
+apg2342	Iba_chr01bCG4680			
+apg2343	Iba_chr01bCG18030			
+apg2344	Iba_chr01bCG6030			
+apg2345	Iba_chr01bCG9540			
+apg2346	Iba_chr01bCG8210			
+apg2347	Iba_chr01bCG17180			
+apg2348	Iba_chr01bCG8690			
+apg2349	Iba_chr01bCG14910			
+apg2350	Iba_chr01bCG2900			
+apg2351	Iba_chr01bCG8220			
+apg2352	Iba_chr01bCG5190			
+apg2353	Iba_chr01bCG14900			
+apg2354	Iba_chr01bCG18010			
+apg2355	Iba_chr01bCG17160			
+apg2356	Iba_chr01bCG19340			
+apg2357	Iba_chr01bCG5160			
+apg2358	Iba_chr01bCG8670			
+apg2359	Iba_chr01bCG9520			
+apg2360	Iba_chr01bCG6490			
+apg2361	Iba_chr01bCG11860			
+apg2362	Iba_chr01bCG7350			
+apg2363	Iba_chr01bCG5170			
+apg2364	Iba_chr01bCG8680			
+apg2365	Iba_chr01bCG10520			
+apg2366	Iba_chr01bCG4290	Iba_chr01bCG3660		
+apg2367	Iba_chr01bCG7320			
+apg2368	Iba_chr01bCG8650			
+apg2369	Iba_chr01bCG11440			
+apg2370	Iba_chr01bCG12770			
+apg2371	Iba_chr01bCG10110			
+apg2372	Iba_chr01bCG15800			
+apg2373	Iba_chr01bCG14950			
+apg2374	Iba_chr01bCG8660			
+apg2375	Iba_chr01bCG9990			
+apg2376	Iba_chr01bCG7330			
+apg2377	Iba_chr01bCG6000			
+apg2378	Iba_chr01bCG6480			
+apg2379	Iba_chr01bCG11430			
+apg2380	Iba_chr01bCG10100			
+apg2381	Iba_chr01bCG14940			
+apg2382	Iba_chr01bCG7300			
+apg2383	Iba_chr01bCG8630			
+apg2384	Iba_chr01bCG2090			
+apg2385	Iba_chr01bCG7780			
+apg2386	Iba_chr01bCG19380			
+apg2387	Iba_chr01bCG4270			
+apg2388	Iba_chr01bCG10570			
+apg2389	Iba_chr01bCG14930			
+apg2390	Iba_chr01bCG7310			
+apg2391	Iba_chr01bCG4280			
+apg2392	Iba_chr01bCG6460			
+apg2393	Iba_chr01bCG5130			
+apg2394	Iba_chr01bCG11890			
+apg2395	Iba_chr01bCG14920			
+apg2396	Iba_chr01bCG1420			
+apg2397	Iba_chr01bCG12690			
+apg2398	Iba_chr01bCG11360			
+apg2399	Iba_chr01bCG4920	Iba_chr01bCG6230		
+apg2400	Iba_chr01bCG13540			
+apg2401	Iba_chr01bCG14870			
+apg2402	Iba_chr01bCG17900			
+apg2403	Iba_chr01bCG15720			
+apg2404	Iba_chr01bCG0580			
+apg2405	Iba_chr01bCG3610			
+apg2406	Iba_chr01bCG4940	Iba_chr01bCG6250		
+apg2407	Iba_chr01bCG0100			
+apg2408	Iba_chr01bCG8060			
+apg2409	Iba_chr01bCG14860			
+apg2410	Iba_chr01bCG12680			
+apg2411	Iba_chr01bCG13530			
+apg2412	Iba_chr01bCG3600			
+apg2413	Iba_chr01bCG12200			
+apg2414	Iba_chr01bCG15710			
+apg2415	Iba_chr01bCG1880			
+apg2416	Iba_chr01bCG10490			
+apg2417	Iba_chr01bCG8030			
+apg2418	Iba_chr01bCG7180			
+apg2419	Iba_chr01bCG4900			
+apg2420	Iba_chr01bCG14850			
+apg2421	Iba_chr01bCG2720			
+apg2422	Iba_chr01bCG13520	Iba_chr01bCG13500		
+apg2423	Iba_chr01bCG1890			
+apg2424	Iba_chr01bCG19290			
+apg2425	Iba_chr01bCG9370			
+apg2426	Iba_chr01bCG7190			
+apg2427	Iba_chr01bCG10480			
+apg2428	Iba_chr01bCG4910	Iba_chr01bCG6220		
+apg2429	Iba_chr01bCG12660			
+apg2430	Iba_chr01bCG10000			
+apg2431	Iba_chr01bCG14840	Iba_chr01bCG14810		
+apg2432	Iba_chr01bCG1860			
+apg2433	Iba_chr01bCG8010			
+apg2434	Iba_chr01bCG7160			
+apg2435	Iba_chr01bCG8490			
+apg2436	Iba_chr01bCG2700			
+apg2437	Iba_chr01bCG16610			
+apg2438	Iba_chr01bCG7170			
+apg2439	Iba_chr01bCG14420			
+apg2440	Iba_chr01bCG17930			
+apg2441	Iba_chr01bCG2710			
+apg2442	Iba_chr01bCG14890			
+apg2443	Iba_chr01bCG11380			
+apg2444	Iba_chr01bCG6290			
+apg2445	Iba_chr01bCG12230			
+apg2446	Iba_chr01bCG17920			
+apg2447	Iba_chr01bCG1850			
+apg2448	Iba_chr01bCG8000			
+apg2449	Iba_chr01bCG9330			
+apg2450	Iba_chr01bCG7150			
+apg2451	Iba_chr01bCG15730			
+apg2452	Iba_chr01bCG1840			
+apg2453	Iba_chr01bCG14880			
+apg2454	Iba_chr01bCG17910			
+apg2455	Iba_chr01bCG1020			
+apg2456	Iba_chr01bCG4530			
+apg2457	Iba_chr01bCG6710			
+apg2458	Iba_chr01bCG2350			
+apg2459	Iba_chr01bCG3680			
+apg2460	Iba_chr01bCG16650			
+apg2461	Iba_chr01bCG17980			
+apg2462	Iba_chr01bCG5860			
+apg2463	Iba_chr01bCG14470			
+apg2464	Iba_chr01bCG0170			
+apg2465	Iba_chr01bCG6720			
+apg2466	Iba_chr01bCG4540			
+apg2467	Iba_chr01bCG2360			
+apg2468	Iba_chr01bCG1030			
+apg2469	Iba_chr01bCG14460			
+apg2470	Iba_chr01bCG13130			
+apg2471	Iba_chr01bCG0180			
+apg2472	Iba_chr01bCG16640			
+apg2473	Iba_chr01bCG15310			
+apg2474	Iba_chr01bCG0150			
+apg2475	Iba_chr01bCG5840			
+apg2476	Iba_chr01bCG2330			
+apg2477	Iba_chr01bCG4990			
+apg2478	Iba_chr01bCG10090			
+apg2479	Iba_chr01bCG4510	Iba_chr01bCG3800		
+apg2480	Iba_chr01bCG18810			
+apg2481	Iba_chr01bCG16630			
+apg2482	Iba_chr01bCG2340			
+apg2483	Iba_chr01bCG0160			
+apg2484	Iba_chr01bCG1010			
+apg2485	Iba_chr01bCG3670	Iba_chr01bCG4300	Iba_chr01bCG4340	
+apg2486	Iba_chr01bCG6700			
+apg2487	Iba_chr01bCG10080			
+apg2488	Iba_chr01bCG13590			
+apg2489	Iba_chr01bCG15770			
+apg2490	Iba_chr01bCG13110			
+apg2491	Iba_chr01bCG16620			
+apg2492	Iba_chr01bCG14440			
+apg2493	Iba_chr01bCG18800			
+apg2494	Iba_chr01bCG16690			
+apg2495	Iba_chr01bCG0130			
+apg2496	Iba_chr01bCG18870			
+apg2497	Iba_chr01bCG2310	Iba_chr01bCG2300		
+apg2498	Iba_chr01bCG3640			
+apg2499	Iba_chr01bCG8090			
+apg2500	Iba_chr01bCG19720			
+apg2501	Iba_chr01bCG3650			
+apg2502	Iba_chr01bCG4980			
+apg2503	Iba_chr01bCG13170			
+apg2504	Iba_chr01bCG0140			
+apg2505	Iba_chr01bCG4500			
+apg2506	Iba_chr01bCG18860			
+apg2507	Iba_chr01bCG2320			
+apg2508	Iba_chr01bCG16680			
+apg2509	Iba_chr01bCG16200			
+apg2510	Iba_chr01bCG0110			
+apg2511	Iba_chr01bCG15340			
+apg2512	Iba_chr01bCG3620			
+apg2513	Iba_chr01bCG1440			
+apg2514	Iba_chr01bCG16670			
+apg2515	Iba_chr01bCG8070			
+apg2516	Iba_chr01bCG19700			
+apg2517	Iba_chr01bCG2780			
+apg2518	Iba_chr01bCG1450			
+apg2519	Iba_chr01bCG13150			
+apg2520	Iba_chr01bCG16660			
+apg2521	Iba_chr01bCG15330			
+apg2522	Iba_chr01bCG3630			
+apg2523	Iba_chr01bCG4960			
+apg2524	Iba_chr01bCG8080			
+apg2525	Iba_chr01bCG14000			
+apg2526	Iba_chr01bCG5800			
+apg2527	Iba_chr01bCG15280			
+apg2528	Iba_chr01bCG6310			
+apg2529	Iba_chr01bCG18310			
+apg2530	Iba_chr01bCG9820			
+apg2531	Iba_chr01bCG6790			
+apg2532	Iba_chr01bCG8970			
+apg2533	Iba_chr01bCG5460			
+apg2534	Iba_chr01bCG15270			
+apg2535	Iba_chr01bCG6320			
+apg2536	Iba_chr01bCG18300			
+apg2537	Iba_chr01bCG16120			
+apg2538	Iba_chr01bCG17450			
+apg2539	Iba_chr01bCG3290			
+apg2540	Iba_chr01bCG4140			
+apg2541	Iba_chr01bCG5470			
+apg2542	Iba_chr01bCG16590			
+apg2543	Iba_chr01bCG15260			
+apg2544	Iba_chr01bCG4110			
+apg2545	Iba_chr01bCG19620			
+apg2546	Iba_chr01bCG8950			
+apg2547	Iba_chr01bCG6770			
+apg2548	Iba_chr01bCG3260			
+apg2549	Iba_chr01bCG1080			
+apg2550	Iba_chr01bCG4590			
+apg2551	Iba_chr01bCG16580			
+apg2552	Iba_chr01bCG13070			
+apg2553	Iba_chr01bCG7630			
+apg2554	Iba_chr01bCG8960			
+apg2555	Iba_chr01bCG6300			
+apg2556	Iba_chr01bCG9810			
+apg2557	Iba_chr01bCG15250			
+apg2558	Iba_chr01bCG1090			
+apg2559	Iba_chr01bCG6780			
+apg2560	Iba_chr01bCG5450			
+apg2561	Iba_chr01bCG3270			
+apg2562	Iba_chr01bCG10800			
+apg2563	Iba_chr01bCG17020			
+apg2564	Iba_chr01bCG5420			
+apg2565	Iba_chr01bCG18350			
+apg2566	Iba_chr01bCG3240			
+apg2567	Iba_chr01bCG6750			
+apg2568	Iba_chr01bCG19680			
+apg2569	Iba_chr01bCG8930			
+apg2570	Iba_chr01bCG4570			
+apg2571	Iba_chr01bCG11720			
+apg2572	Iba_chr01bCG13900			
+apg2573	Iba_chr01bCG10870			
+apg2574	Iba_chr01bCG18340			
+apg2575	Iba_chr01bCG16160			
+apg2576	Iba_chr01bCG7610			
+apg2577	Iba_chr01bCG17010			
+apg2578	Iba_chr01bCG3250			
+apg2579	Iba_chr01bCG4580	Iba_chr01bCG3860		
+apg2580	Iba_chr01bCG4550			
+apg2581	Iba_chr01bCG6730			
+apg2582	Iba_chr01bCG18330			
+apg2583	Iba_chr01bCG0190			
+apg2584	Iba_chr01bCG2370			
+apg2585	Iba_chr01bCG10850			
+apg2586	Iba_chr01bCG5410			
+apg2587	Iba_chr01bCG8920			
+apg2588	Iba_chr01bCG17470			
+apg2589	Iba_chr01bCG3230			
+apg2590	Iba_chr01bCG15290			
+apg2591	Iba_chr01bCG4560			
+apg2592	Iba_chr01bCG6740			
+apg2593	Iba_chr01bCG18320			
+apg2594	Iba_chr01bCG5890			
+apg2595	Iba_chr01bCG2380			
+apg2596	Iba_chr01bCG1050			
+apg2597	Iba_chr01bCG10840			
+apg2598	Iba_chr01bCG19240			
+apg2599	Iba_chr01bCG7240			
+apg2600	Iba_chr01bCG5060			
+apg2601	Iba_chr01bCG9420			
+apg2602	Iba_chr01bCG17060			
+apg2603	Iba_chr01bCG6390			
+apg2604	Iba_chr01bCG18390			
+apg2605	Iba_chr01bCG0600			
+apg2606	Iba_chr01bCG11760			
+apg2607	Iba_chr01bCG10430			
+apg2608	Iba_chr01bCG12610			
+apg2609	Iba_chr01bCG9430			
+apg2610	Iba_chr01bCG8100			
+apg2611	Iba_chr01bCG18380			
+apg2612	Iba_chr01bCG7250			
+apg2613	Iba_chr01bCG11750			
+apg2614	Iba_chr01bCG10420			
+apg2615	Iba_chr01bCG18370			
+apg2616	Iba_chr01bCG9400			
+apg2617	Iba_chr01bCG19220			
+apg2618	Iba_chr01bCG8550			
+apg2619	Iba_chr01bCG4190			
+apg2620	Iba_chr01bCG7220			
+apg2621	Iba_chr01bCG5040			
+apg2622	Iba_chr01bCG6370			
+apg2623	Iba_chr01bCG10890			
+apg2624	Iba_chr01bCG1910			
+apg2625	Iba_chr01bCG10410			
+apg2626	Iba_chr01bCG19210			
+apg2627	Iba_chr01bCG18360			
+apg2628	Iba_chr01bCG19690			
+apg2629	Iba_chr01bCG5050			
+apg2630	Iba_chr01bCG7230			
+apg2631	Iba_chr01bCG8560			
+apg2632	Iba_chr01bCG16180			
+apg2633	Iba_chr01bCG6380			
+apg2634	Iba_chr01bCG1920			
+apg2635	Iba_chr01bCG10880			
+apg2636	Iba_chr01bCG11730			
+apg2637	Iba_chr01bCG7200			
+apg2638	Iba_chr01bCG4170			
+apg2639	Iba_chr01bCG6350			
+apg2640	Iba_chr01bCG8530			
+apg2641	Iba_chr01bCG5020			
+apg2642	Iba_chr01bCG10470			
+apg2643	Iba_chr01bCG14830	Iba_chr01bCG14800		
+apg2644	Iba_chr01bCG6360			
+apg2645	Iba_chr01bCG7210			
+apg2646	Iba_chr01bCG5030			
+apg2647	Iba_chr01bCG17090			
+apg2648	Iba_chr01bCG11790			
+apg2649	Iba_chr01bCG10460			
+apg2650	Iba_chr01bCG14820	Iba_chr01bCG14790		
+apg2651	Iba_chr01bCG8510			
+apg2652	Iba_chr01bCG9840			
+apg2653	Iba_chr01bCG8990			
+apg2654	Iba_chr01bCG6330			
+apg2655	Iba_chr01bCG4150	Iba_chr01bCG4790		
+apg2656	Iba_chr01bCG5480			
+apg2657	Iba_chr01bCG11780			
+apg2658	Iba_chr01bCG10450			
+apg2659	Iba_chr01bCG8520			
+apg2660	Iba_chr01bCG5490			
+apg2661	Iba_chr01bCG6340			
+apg2662	Iba_chr01bCG9850			
+apg2663	Iba_chr01bCG5010			
+apg2664	Iba_chr01bCG17070			
+apg2665	Iba_chr01bCG4160	Iba_chr01bCG4810		
+apg2666	Iba_chr01bCG11770			
+apg2667	Iba_chr01bCG2630			
+apg2668	Iba_chr01bCG0450			
+apg2669	Iba_chr01bCG1300			
+apg2670	Iba_chr01bCG9260			
+apg2671	Iba_chr01bCG14750			
+apg2672	Iba_chr01bCG11240			
+apg2673	Iba_chr01bCG12570			
+apg2674	Iba_chr01bCG4800			
+apg2675	Iba_chr01bCG13420			
+apg2676	Iba_chr01bCG1790			
+apg2677	Iba_chr01bCG0460			
+apg2678	Iba_chr01bCG4820			
+apg2679	Iba_chr01bCG2640			
+apg2680	Iba_chr01bCG3970			
+apg2681	Iba_chr01bCG9270			
+apg2682	Iba_chr01bCG12560			
+apg2683	Iba_chr01bCG13890			
+apg2684	Iba_chr01bCG14740			
+apg2685	Iba_chr01bCG13410			
+apg2686	Iba_chr01bCG3940			
+apg2687	Iba_chr01bCG0430			
+apg2688	Iba_chr01bCG9240			
+apg2689	Iba_chr01bCG13880			
+apg2690	Iba_chr01bCG3930			
+apg2691	Iba_chr01bCG11220			
+apg2692	Iba_chr01bCG13400			
+apg2693	Iba_chr01bCG14730			
+apg2694	Iba_chr01bCG0440			
+apg2695	Iba_chr01bCG7070			
+apg2696	Iba_chr01bCG10360			
+apg2697	Iba_chr01bCG2610			
+apg2698	Iba_chr01bCG12540			
+apg2699	Iba_chr01bCG13870			
+apg2700	Iba_chr01bCG16900			
+apg2701	Iba_chr01bCG14720			
+apg2702	Iba_chr01bCG13460	Iba_chr01bCG13440		
+apg2703	Iba_chr01bCG9220			
+apg2704	Iba_chr01bCG7040			
+apg2705	Iba_chr01bCG6190			
+apg2706	Iba_chr01bCG17820			
+apg2707	Iba_chr01bCG3910			
+apg2708	Iba_chr01bCG12130			
+apg2709	Iba_chr01bCG1730			
+apg2710	Iba_chr01bCG14780			
+apg2711	Iba_chr01bCG0420			
+apg2712	Iba_chr01bCG9230			
+apg2713	Iba_chr01bCG12120			
+apg2714	Iba_chr01bCG0410			
+apg2715	Iba_chr01bCG13470	Iba_chr01bCG13450		
+apg2716	Iba_chr01bCG3920			
+apg2717	Iba_chr01bCG17810			
+apg2718	Iba_chr01bCG7020			
+apg2719	Iba_chr01bCG14770			
+apg2720	Iba_chr01bCG12110			
+apg2721	Iba_chr01bCG17800			
+apg2722	Iba_chr01bCG12580			
+apg2723	Iba_chr01bCG6180			
+apg2724	Iba_chr01bCG7030			
+apg2725	Iba_chr01bCG3900			
+apg2726	Iba_chr01bCG1720			
+apg2727	Iba_chr01bCG13430			
+apg2728	Iba_chr01bCG14760			
+apg2729	Iba_chr01bCG2230			
+apg2730	Iba_chr01bCG0050			
+apg2731	Iba_chr01bCG7920			
+apg2732	Iba_chr01bCG3560	Iba_chr01bCG3570		
+apg2733	Iba_chr01bCG4890	Iba_chr01bCG6200		
+apg2734	Iba_chr01bCG17860			
+apg2735	Iba_chr01bCG12170			
+apg2736	Iba_chr01bCG4410			
+apg2737	Iba_chr01bCG15680			
+apg2738	Iba_chr01bCG1380			
+apg2739	Iba_chr01bCG18710			
+apg2740	Iba_chr01bCG16530			
+apg2741	Iba_chr01bCG15200			
+apg2742	Iba_chr01bCG4420			
+apg2743	Iba_chr01bCG7930			
+apg2744	Iba_chr01bCG5750			
+apg2745	Iba_chr01bCG6600			
+apg2746	Iba_chr01bCG2240			
+apg2747	Iba_chr01bCG12160			
+apg2748	Iba_chr01bCG13490			
+apg2749	Iba_chr01bCG17850			
+apg2750	Iba_chr01bCG3540			
+apg2751	Iba_chr01bCG2690			
+apg2752	Iba_chr01bCG1360			
+apg2753	Iba_chr01bCG7900			
+apg2754	Iba_chr01bCG13480			
+apg2755	Iba_chr01bCG2210			
+apg2756	Iba_chr01bCG5720			
+apg2757	Iba_chr01bCG13000			
+apg2758	Iba_chr01bCG17840			
+apg2759	Iba_chr01bCG2220			
+apg2760	Iba_chr01bCG3550			
+apg2761	Iba_chr01bCG7910			
+apg2762	Iba_chr01bCG16980			
+apg2763	Iba_chr01bCG4400			
+apg2764	Iba_chr01bCG12140			
+apg2765	Iba_chr01bCG5730			
+apg2766	Iba_chr01bCG17830			
+apg2767	Iba_chr01bCG2670	Iba_chr01bCG2680		
+apg2768	Iba_chr01bCG14390			
+apg2769	Iba_chr01bCG0010			
+apg2770	Iba_chr01bCG18750			
+apg2771	Iba_chr01bCG3520			
+apg2772	Iba_chr01bCG16570			
+apg2773	Iba_chr01bCG4850			
+apg2774	Iba_chr01bCG15240	Iba_chr01bCG15170		
+apg2775	Iba_chr01bCG4860			
+apg2776	Iba_chr01bCG0020			
+apg2777	Iba_chr01bCG15230			
+apg2778	Iba_chr01bCG5710			
+apg2779	Iba_chr01bCG13050			
+apg2780	Iba_chr01bCG2200			
+apg2781	Iba_chr01bCG3530			
+apg2782	Iba_chr01bCG16560			
+apg2783	Iba_chr01bCG17890			
+apg2784	Iba_chr01bCG0470			
+apg2785	Iba_chr01bCG13040			
+apg2786	Iba_chr01bCG15220	Iba_chr01bCG15150		
+apg2787	Iba_chr01bCG17880			
+apg2788	Iba_chr01bCG1320			
+apg2789	Iba_chr01bCG9280			
+apg2790	Iba_chr01bCG17400			
+apg2791	Iba_chr01bCG0480			
+apg2792	Iba_chr01bCG3990			
+apg2793	Iba_chr01bCG3510			
+apg2794	Iba_chr01bCG17870			
+apg2795	Iba_chr01bCG1330			
+apg2796	Iba_chr01bCG4840			
+apg2797	Iba_chr01bCG15690			
+apg2798	Iba_chr01bCG15210	Iba_chr01bCG15140		
+apg2799	Iba_chr01bCG15160			
+apg2800	Iba_chr01bCG19520			
+apg2801	Iba_chr01bCG4010			
+apg2802	Iba_chr01bCG16490			
+apg2803	Iba_chr01bCG8850			
+apg2804	Iba_chr01bCG5340			
+apg2805	Iba_chr01bCG4490			
+apg2806	Iba_chr01bCG10710			
+apg2807	Iba_chr01bCG19510			
+apg2808	Iba_chr01bCG7530			
+apg2809	Iba_chr01bCG16000			
+apg2810	Iba_chr01bCG6680			
+apg2811	Iba_chr01bCG4020			
+apg2812	Iba_chr01bCG5350			
+apg2813	Iba_chr01bCG3170			
+apg2814	Iba_chr01bCG10700			
+apg2815	Iba_chr01bCG5320			
+apg2816	Iba_chr01bCG6650			
+apg2817	Iba_chr01bCG8830			
+apg2818	Iba_chr01bCG7980			
+apg2819	Iba_chr01bCG3140			
+apg2820	Iba_chr01bCG4470			
+apg2821	Iba_chr01bCG2290			
+apg2822	Iba_chr01bCG17790			
+apg2823	Iba_chr01bCG4000			
+apg2824	Iba_chr01bCG5330			
+apg2825	Iba_chr01bCG8840			
+apg2826	Iba_chr01bCG7510			
+apg2827	Iba_chr01bCG16460			
+apg2828	Iba_chr01bCG15130			
+apg2829	Iba_chr01bCG7990			
+apg2830	Iba_chr01bCG6660			
+apg2831	Iba_chr01bCG3150			
+apg2832	Iba_chr01bCG4480			
+apg2833	Iba_chr01bCG5300			
+apg2834	Iba_chr01bCG18230			
+apg2835	Iba_chr01bCG3120	Iba_chr01bCG3110		
+apg2836	Iba_chr01bCG7960			
+apg2837	Iba_chr01bCG2270	Iba_chr01bCG2260		
+apg2838	Iba_chr01bCG5780			
+apg2839	Iba_chr01bCG0090			
+apg2840	Iba_chr01bCG11600			
+apg2841	Iba_chr01bCG12930			
+apg2842	Iba_chr01bCG5310			
+apg2843	Iba_chr01bCG7970			
+apg2844	Iba_chr01bCG8820			
+apg2845	Iba_chr01bCG18220			
+apg2846	Iba_chr01bCG4460			
+apg2847	Iba_chr01bCG15190			
+apg2848	Iba_chr01bCG2280			
+apg2849	Iba_chr01bCG6610			
+apg2850	Iba_chr01bCG19540			
+apg2851	Iba_chr01bCG2250			
+apg2852	Iba_chr01bCG5760			
+apg2853	Iba_chr01bCG15180	Iba_chr01bCG15110		
+apg2854	Iba_chr01bCG18690			
+apg2855	Iba_chr01bCG18210			
+apg2856	Iba_chr01bCG7940			
+apg2857	Iba_chr01bCG3580			
+apg2858	Iba_chr01bCG0070			
+apg2859	Iba_chr01bCG12910			
+apg2860	Iba_chr01bCG4440			
+apg2861	Iba_chr01bCG18200			
+apg2862	Iba_chr01bCG7950			
+apg2863	Iba_chr01bCG6620			
+apg2864	Iba_chr01bCG0080			
+apg2865	Iba_chr01bCG3590			
+apg2866	Iba_chr01bCG7120			
+apg2867	Iba_chr01bCG8450			
+apg2868	Iba_chr01bCG18270			
+apg2869	Iba_chr01bCG6270			
+apg2870	Iba_chr01bCG16090			
+apg2871	Iba_chr01bCG0960			
+apg2872	Iba_chr01bCG1810			
+apg2873	Iba_chr01bCG10310			
+apg2874	Iba_chr01bCG13820			
+apg2875	Iba_chr01bCG18260			
+apg2876	Iba_chr01bCG16080			
+apg2877	Iba_chr01bCG8460			
+apg2878	Iba_chr01bCG9790			
+apg2879	Iba_chr01bCG13810			
+apg2880	Iba_chr01bCG1820			
+apg2881	Iba_chr01bCG11630			
+apg2882	Iba_chr01bCG19100			
+apg2883	Iba_chr01bCG18250			
+apg2884	Iba_chr01bCG9760			
+apg2885	Iba_chr01bCG8430			
+apg2886	Iba_chr01bCG7580			
+apg2887	Iba_chr01bCG0940			
+apg2888	Iba_chr01bCG11620			
+apg2889	Iba_chr01bCG12950			
+apg2890	Iba_chr01bCG18240			
+apg2891	Iba_chr01bCG16060			
+apg2892	Iba_chr01bCG9770			
+apg2893	Iba_chr01bCG4080			
+apg2894	Iba_chr01bCG7590			
+apg2895	Iba_chr01bCG6260			
+apg2896	Iba_chr01bCG11610			
+apg2897	Iba_chr01bCG1800			
+apg2898	Iba_chr01bCG12940			
+apg2899	Iba_chr01bCG8410			
+apg2900	Iba_chr01bCG5380			
+apg2901	Iba_chr01bCG11680			
+apg2902	Iba_chr01bCG14710			
+apg2903	Iba_chr01bCG0920			
+apg2904	Iba_chr01bCG4060			
+apg2905	Iba_chr01bCG5390	Iba_chr01bCG5370		
+apg2906	Iba_chr01bCG6240			
+apg2907	Iba_chr01bCG8420			
+apg2908	Iba_chr01bCG9750			
+apg2909	Iba_chr01bCG19150			
+apg2910	Iba_chr01bCG12520			
+apg2911	Iba_chr01bCG14700			
+apg2912	Iba_chr01bCG6210			
+apg2913	Iba_chr01bCG9720			
+apg2914	Iba_chr01bCG3180			
+apg2915	Iba_chr01bCG8870			
+apg2916	Iba_chr01bCG4030			
+apg2917	Iba_chr01bCG5360			
+apg2918	Iba_chr01bCG18290			
+apg2919	Iba_chr01bCG12990			
+apg2920	Iba_chr01bCG0900			
+apg2921	Iba_chr01bCG19130			
+apg2922	Iba_chr01bCG8880			
+apg2923	Iba_chr01bCG18280			
+apg2924	Iba_chr01bCG12980			
+apg2925	Iba_chr01bCG12500			
+apg2926	Iba_chr01bCG13830			
+apg2927	Iba_chr01bCG2990			
+apg2928	Iba_chr01bCG2510			
+apg2929	Iba_chr01bCG9140			
+apg2930	Iba_chr01bCG12450			
+apg2931	Iba_chr01bCG14630			
+apg2932	Iba_chr01bCG2500			
+apg2933	Iba_chr01bCG11120			
+apg2934	Iba_chr01bCG13300			
+apg2935	Iba_chr01bCG3850			
+apg2936	Iba_chr01bCG11590			
+apg2937	Iba_chr01bCG19070			
+apg2938	Iba_chr01bCG13770			
+apg2939	Iba_chr01bCG15950			
+apg2940	Iba_chr01bCG11110			
+apg2941	Iba_chr01bCG16800			
+apg2942	Iba_chr01bCG1640			
+apg2943	Iba_chr01bCG0310			
+apg2944	Iba_chr01bCG2970			
+apg2945	Iba_chr01bCG8270			
+apg2946	Iba_chr01bCG9120			
+apg2947	Iba_chr01bCG10250			
+apg2948	Iba_chr01bCG3810			
+apg2949	Iba_chr01bCG14610			
+apg2950	Iba_chr01bCG3830			
+apg2951	Iba_chr01bCG2980			
+apg2952	Iba_chr01bCG9130			
+apg2953	Iba_chr01bCG8280			
+apg2954	Iba_chr01bCG10240			
+apg2955	Iba_chr01bCG13750			
+apg2956	Iba_chr01bCG3820			
+apg2957	Iba_chr01bCG14670			
+apg2958	Iba_chr01bCG6070			
+apg2959	Iba_chr01bCG9580			
+apg2960	Iba_chr01bCG8250			
+apg2961	Iba_chr01bCG15520			
+apg2962	Iba_chr01bCG13340			
+apg2963	Iba_chr01bCG17700			
+apg2964	Iba_chr01bCG2960			
+apg2965	Iba_chr01bCG1630			
+apg2966	Iba_chr01bCG15990			
+apg2967	Iba_chr01bCG8260			
+apg2968	Iba_chr01bCG9590			
+apg2969	Iba_chr01bCG6080			
+apg2970	Iba_chr01bCG13330			
+apg2971	Iba_chr01bCG1620			
+apg2972	Iba_chr01bCG14660			
+apg2973	Iba_chr01bCG0750			
+apg2974	Iba_chr01bCG7380			
+apg2975	Iba_chr01bCG9560			
+apg2976	Iba_chr01bCG11140			
+apg2977	Iba_chr01bCG13320			
+apg2978	Iba_chr01bCG14650			
+apg2979	Iba_chr01bCG0760			
+apg2980	Iba_chr01bCG14640			
+apg2981	Iba_chr01bCG11130			
+apg2982	Iba_chr01bCG13310			
+apg2983	Iba_chr01bCG2930			
+apg2984	Iba_chr01bCG2110			
+apg2985	Iba_chr01bCG1260			
+apg2986	Iba_chr01bCG4770			
+apg2987	Iba_chr01bCG7800			
+apg2988	Iba_chr01bCG13380			
+apg2989	Iba_chr01bCG14230			
+apg2990	Iba_chr01bCG5620			
+apg2991	Iba_chr01bCG6950			
+apg2992	Iba_chr01bCG17740			
+apg2993	Iba_chr01bCG2120			
+apg2994	Iba_chr01bCG7810			
+apg2995	Iba_chr01bCG3450			
+apg2996	Iba_chr01bCG4780			
+apg2997	Iba_chr01bCG13370			
+apg2998	Iba_chr01bCG6960			
+apg2999	Iba_chr01bCG1270			
+apg3000	Iba_chr01bCG16400			
+apg3001	Iba_chr01bCG14220			
+apg3002	Iba_chr01bCG17730			
+apg3003	Iba_chr01bCG1240			
+apg3004	Iba_chr01bCG4750			
+apg3005	Iba_chr01bCG13360			
+apg3006	Iba_chr01bCG14690			
+apg3007	Iba_chr01bCG14210			
+apg3008	Iba_chr01bCG17720			
+apg3009	Iba_chr01bCG15540			
+apg3010	Iba_chr01bCG3430			
+apg3011	Iba_chr01bCG6940			
+apg3012	Iba_chr01bCG4760			
+apg3013	Iba_chr01bCG2580			
+apg3014	Iba_chr01bCG1250			
+apg3015	Iba_chr01bCG14680			
+apg3016	Iba_chr01bCG11170			
+apg3017	Iba_chr01bCG2100			
+apg3018	Iba_chr01bCG13350			
+apg3019	Iba_chr01bCG17710			
+apg3020	Iba_chr01bCG14200			
+apg3021	Iba_chr01bCG3880			
+apg3022	Iba_chr01bCG15120			
+apg3023	Iba_chr01bCG1220			
+apg3024	Iba_chr01bCG4730			
+apg3025	Iba_chr01bCG17780			
+apg3026	Iba_chr01bCG6900			
+apg3027	Iba_chr01bCG1230			
+apg3028	Iba_chr01bCG15590			
+apg3029	Iba_chr01bCG3890			
+apg3030	Iba_chr01bCG6920			
+apg3031	Iba_chr01bCG12080			
+apg3032	Iba_chr01bCG3410			
+apg3033	Iba_chr01bCG17770			
+apg3034	Iba_chr01bCG9190			
+apg3035	Iba_chr01bCG1200			
+apg3036	Iba_chr01bCG14250			
+apg3037	Iba_chr01bCG17760			
+apg3038	Iba_chr01bCG2530			
+apg3039	Iba_chr01bCG15100			
+apg3040	Iba_chr01bCG4700			
+apg3041	Iba_chr01bCG3870			
+apg3042	Iba_chr01bCG13390			
+apg3043	Iba_chr01bCG0360			
+apg3044	Iba_chr01bCG17750			
+apg3045	Iba_chr01bCG4720			
+apg3046	Iba_chr01bCG1210			
+apg3047	Iba_chr01bCG18600			
+apg3048	Iba_chr01bCG15040			
+apg3049	Iba_chr01bCG19400			
+apg3050	Iba_chr01bCG8730			
+apg3051	Iba_chr01bCG18550			
+apg3052	Iba_chr01bCG2190	Iba_chr01bCG2180		
+apg3053	Iba_chr01bCG6550			
+apg3054	Iba_chr01bCG3040			
+apg3055	Iba_chr01bCG11920			
+apg3056	Iba_chr01bCG17690			
+apg3057	Iba_chr01bCG7410			
+apg3058	Iba_chr01bCG15030			
+apg3059	Iba_chr01bCG18540			
+apg3060	Iba_chr01bCG7890			
+apg3061	Iba_chr01bCG6560			
+apg3062	Iba_chr01bCG5230			
+apg3063	Iba_chr01bCG3050			
+apg3064	Iba_chr01bCG17680			
+apg3065	Iba_chr01bCG5200			
+apg3066	Iba_chr01bCG3020			
+apg3067	Iba_chr01bCG6530			
+apg3068	Iba_chr01bCG16350			
+apg3069	Iba_chr01bCG15020			
+apg3070	Iba_chr01bCG2170			
+apg3071	Iba_chr01bCG11900			
+apg3072	Iba_chr01bCG5210			
+apg3073	Iba_chr01bCG14160			
+apg3074	Iba_chr01bCG6540			
+apg3075	Iba_chr01bCG15010			
+apg3076	Iba_chr01bCG17670			
+apg3077	Iba_chr01bCG3030			
+apg3078	Iba_chr01bCG4360			
+apg3079	Iba_chr01bCG5690			
+apg3080	Iba_chr01bCG3000			
+apg3081	Iba_chr01bCG4330			
+apg3082	Iba_chr01bCG5660			
+apg3083	Iba_chr01bCG18110			
+apg3084	Iba_chr01bCG2150			
+apg3085	Iba_chr01bCG15080			
+apg3086	Iba_chr01bCG10630			
+apg3087	Iba_chr01bCG19430			
+apg3088	Iba_chr01bCG8700			
+apg3089	Iba_chr01bCG15070			
+apg3090	Iba_chr01bCG3010			
+apg3091	Iba_chr01bCG18100			
+apg3092	Iba_chr01bCG2160			
+apg3093	Iba_chr01bCG3490			
+apg3094	Iba_chr01bCG11950			
+apg3095	Iba_chr01bCG17240			
+apg3096	Iba_chr01bCG5640			
+apg3097	Iba_chr01bCG16390			
+apg3098	Iba_chr01bCG2130			
+apg3099	Iba_chr01bCG3460			
+apg3100	Iba_chr01bCG15060			
+apg3101	Iba_chr01bCG6970			
+apg3102	Iba_chr01bCG11940			
+apg3103	Iba_chr01bCG6500			
+apg3104	Iba_chr01bCG15050			
+apg3105	Iba_chr01bCG4320			
+apg3106	Iba_chr01bCG2140			
+apg3107	Iba_chr01bCG6980			
+apg3108	Iba_chr01bCG1290			
+apg3109	Iba_chr01bCG18150			
+apg3110	Iba_chr01bCG19000			
+apg3111	Iba_chr01bCG8330			
+apg3112	Iba_chr01bCG9660			
+apg3113	Iba_chr01bCG7000			
+apg3114	Iba_chr01bCG7480			
+apg3115	Iba_chr01bCG6150			
+apg3116	Iba_chr01bCG13700			
+apg3117	Iba_chr01bCG18140			
+apg3118	Iba_chr01bCG7010			
+apg3119	Iba_chr01bCG17290			
+apg3120	Iba_chr01bCG6160			
+apg3121	Iba_chr01bCG9670			
+apg3122	Iba_chr01bCG18130			
+apg3123	Iba_chr01bCG7460			
+apg3124	Iba_chr01bCG5280			
+apg3125	Iba_chr01bCG6130			
+apg3126	Iba_chr01bCG17280			
+apg3127	Iba_chr01bCG8790			
+apg3128	Iba_chr01bCG11500			
+apg3129	Iba_chr01bCG0820			
+apg3130	Iba_chr01bCG11980			
+apg3131	Iba_chr01bCG10650			
+apg3132	Iba_chr01bCG18120			
+apg3133	Iba_chr01bCG19450			
+apg3134	Iba_chr01bCG9650			
+apg3135	Iba_chr01bCG5290			
+apg3136	Iba_chr01bCG15090			
+apg3137	Iba_chr01bCG7470			
+apg3138	Iba_chr01bCG12820			
+apg3139	Iba_chr01bCG11970			
+apg3140	Iba_chr01bCG3080			
+apg3141	Iba_chr01bCG6110			
+apg3142	Iba_chr01bCG5260			
+apg3143	Iba_chr01bCG6590			
+apg3144	Iba_chr01bCG18190			
+apg3145	Iba_chr01bCG11560			
+apg3146	Iba_chr01bCG12410			
+apg3147	Iba_chr01bCG5270			
+apg3148	Iba_chr01bCG6120			
+apg3149	Iba_chr01bCG3090			
+apg3150	Iba_chr01bCG18180			
+apg3151	Iba_chr01bCG12880			
+apg3152	Iba_chr01bCG15910			
+apg3153	Iba_chr01bCG12400			
+apg3154	Iba_chr01bCG7420			
+apg3155	Iba_chr01bCG4390			
+apg3156	Iba_chr01bCG8750			
+apg3157	Iba_chr01bCG5240			
+apg3158	Iba_chr01bCG18170			
+apg3159	Iba_chr01bCG9610			
+apg3160	Iba_chr01bCG3070			
+apg3161	Iba_chr01bCG19490			
+apg3162	Iba_chr01bCG7430			
+apg3163	Iba_chr01bCG8760			
+apg3164	Iba_chr01bCG18160			
+apg3165	Iba_chr01bCG5250			
+apg3166	Iba_chr01bCG10680			
